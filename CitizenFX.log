@@ -1,0 +1,1308 @@
+[    641188] Initializing Mono
+[    641219] Initializing Mono completed
+[    641235] Hello!
+[    641328] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[    641375] ^3Couldn't find resource sessionmanager.^7
+[    641391] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[    606203] Initializing Mono
+[    606219] Initializing Mono completed
+[    606219] Hello!
+[    606281] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[    606281] ^3Couldn't find resource sessionmanager.^7
+[    606297] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        78] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        93] Found new resource fivem in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//fivem
+[        93] Found new resource fivem-awesome1501 in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//fivem-awesome1501
+[        93] Found new resource fivem-map-hipster in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//fivem-map-skater
+[       109] Found new resource runcode in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//runcode
+[       109] Found new resource race in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       140] Found new resource irc in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[gameplay]/irc
+[       140] Found new resource obituary in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[gameplay]/obituary
+[       140] Found new resource obituary-deaths in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[gameplay]/playernames
+[       156] Found new resource mapmanager in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[managers]/mapmanager
+[       171] Found new resource baseevents in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[system]/baseevents
+[       171] Found new resource chat in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[system]/chat
+[       187] Found new resource hardcap in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[system]/hardcap
+[       187] Found new resource rconlog in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[system]/sessionmanager
+[       218] Found new resource spawnmanager in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[system]/spawnmanager
+[       218] Found new resource betaguns in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[test]/gameInit
+[       234] Found new resource keks in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[test]/keks
+[       281] Started resource sessionmanager
+[      2828] Authenticating server license key...
+[      3734] Server license key authentication succeeded. Welcome!
+[      3781] Sending heartbeat to live-internal.fivem.net:30110
+[    192484] Sending heartbeat to live-internal.fivem.net:30110
+[    192484] hitch warning: frame time of 8664 milliseconds
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        47] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        78] Found new resource fivem in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//fivem
+[        93] Found new resource fivem-awesome1501 in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//fivem-awesome1501
+[        93] Found new resource fivem-map-hipster in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//fivem-map-skater
+[       109] Found new resource runcode in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//runcode
+[       109] Found new resource race in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       140] Found new resource irc in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[gameplay]/irc
+[       140] Found new resource obituary in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[system]/baseevents
+[       187] Found new resource chat in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[system]/chat
+[       187] Found new resource hardcap in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[system]/scoreboard
+[       218] Found new resource sessionmanager in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[system]/sessionmanager
+[       218] Found new resource spawnmanager in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[test]/gameInit
+[       234] Found new resource keks in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[test]/keks
+[       265] Started resource sessionmanager
+[       297] Authenticating server license key...
+[      1172] Server license key authentication succeeded. Welcome!
+[      1234] Sending heartbeat to live-internal.fivem.net:30110
+[    124390] Initializing Mono
+[    124422] Initializing Mono completed
+[    124422] Hello!
+[    124468] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[    124500] ^3Couldn't find resource sessionmanager.^7
+[    124500] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[    128875] Initializing Mono
+[    128890] Initializing Mono completed
+[    128890] Hello!
+[    128922] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[    128953] ^3Couldn't find resource sessionmanager.^7
+[    128984] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[    181281] Sending heartbeat to live-internal.fivem.net:30110
+[    361328] Sending heartbeat to live-internal.fivem.net:30110
+[    533640] Found new resource mymode in C:/Users\eddie\Documents\FXServer_Creator\Main\cfx\cfx-server-data-master/resources//[local]/mymode
+[    541328] Sending heartbeat to live-internal.fivem.net:30110
+[    546218] Initializing Mono
+[    546234] Initializing Mono completed
+[    546234] Hello!
+[    546265] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[    546297] ^3Couldn't find resource sessionmanager.^7
+[    546312] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[     37375] Initializing Mono
+[     37390] Initializing Mono completed
+[     37390] Hello!
+[     37453] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[     37515] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[     37531] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[     37547] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[     37547] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[     37562] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[     37562] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[     37578] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[     37578] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[     37593] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[     37593] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[     37609] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[     37609] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[     37625] Found new resource mymode in C:/Main\cfx-server-data-master/resources//[local]/mymode
+[     37625] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[     37640] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[     37640] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[     37656] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[     37656] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[     37672] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[     37672] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[     37687] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[     37687] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[     37703] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[     37703] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[     37765] Started resource sessionmanager
+[     37797] Started resource mapmanager
+[     37812] Started resource chat
+[     37828] Started resource spawnmanager
+[     37828] Started gametype Freeroam
+[     37828] Started resource fivem
+[     37843] Started resource hardcap
+[     37859] Started resource rconlog
+[     37875] Started resource scoreboard
+[     37906] Started resource playernames
+[     37906] Authenticating server license key...
+[     38843] Server license key authentication succeeded. Welcome!
+[     38906] Sending heartbeat to live-internal.fivem.net:30110
+[     38906] Started map fivem-map-skater
+[     38906] Started resource fivem-map-skater
+[     55890] Connecting: eddie5210200
+[     56953] Sending heartbeat to live-internal.fivem.net:30110
+[    236953] Sending heartbeat to live-internal.fivem.net:30110
+[    368953] Changing gametype from fivem to mymode
+[    368953] Stopping resource fivem-map-skater
+[    368953] Stopping resource fivem
+[    368968] Started gametype My awesome game type!
+[    368968] Started resource mymode
+[    416953] Sending heartbeat to live-internal.fivem.net:30110
+[    596968] Sending heartbeat to live-internal.fivem.net:30110
+[    776968] Sending heartbeat to live-internal.fivem.net:30110
+[    956984] Sending heartbeat to live-internal.fivem.net:30110
+[   1137015] Sending heartbeat to live-internal.fivem.net:30110
+[   1317031] Sending heartbeat to live-internal.fivem.net:30110
+[   1497062] Sending heartbeat to live-internal.fivem.net:30110
+[   1677093] Sending heartbeat to live-internal.fivem.net:30110
+[   1857125] Sending heartbeat to live-internal.fivem.net:30110
+[   1865140] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        31] Initializing Mono completed
+[        47] Hello!
+[       110] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       156] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[       172] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[       172] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[       172] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       188] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       188] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       203] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       203] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       219] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       219] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       235] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       235] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       250] Found new resource mymode in C:/Main\cfx-server-data-master/resources//[local]/mymode
+[       250] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       266] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       266] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       266] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       281] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       281] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       297] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       297] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       297] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       313] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       313] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       375] Started resource sessionmanager
+[       391] Started resource mapmanager
+[       406] Started resource chat
+[       406] Started resource spawnmanager
+[       406] Started gametype Freeroam
+[       406] Started resource fivem
+[       422] Started resource hardcap
+[       422] Started resource rconlog
+[       438] Started resource scoreboard
+[       453] Started resource playernames
+[       453] Authenticating server license key...
+[      1485] Server license key authentication succeeded. Welcome!
+[      1547] Sending heartbeat to live-internal.fivem.net:30110
+[      1547] Started map fivem-map-hipster
+[      1547] Started resource fivem-map-hipster
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        78] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        94] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       125] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       141] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       172] Found new resource mymode in C:/Main\cfx-server-data-master/resources//[local]/mymode
+[       172] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       187] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       187] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       219] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       219] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       234] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       281] Started resource sessionmanager
+[       297] Started resource mapmanager
+[       312] Started resource chat
+[       312] Started resource spawnmanager
+[       312] Started gametype Freeroam
+[       312] Started resource fivem
+[       328] Started resource hardcap
+[       344] Started resource rconlog
+[       344] Started resource scoreboard
+[       359] Started resource playernames
+[       359] Authenticating server license key...
+[      1406] Server license key authentication succeeded. Welcome!
+[      1453] Sending heartbeat to live-internal.fivem.net:30110
+[      1469] Started map fivem-map-hipster
+[      1469] Started resource fivem-map-hipster
+[     23656] Connecting: eddie5210200
+[     24672] Sending heartbeat to live-internal.fivem.net:30110
+[    204703] Sending heartbeat to live-internal.fivem.net:30110
+[    384734] Sending heartbeat to live-internal.fivem.net:30110
+[    564750] Sending heartbeat to live-internal.fivem.net:30110
+[    744781] Sending heartbeat to live-internal.fivem.net:30110
+[    755625] eddie5210200: hi
+[    924812] Sending heartbeat to live-internal.fivem.net:30110
+[   1104844] Sending heartbeat to live-internal.fivem.net:30110
+[   1137562] Sending heartbeat to live-internal.fivem.net:30110
+[   1162266] Connecting: eddie5210200
+[   1163047] Sending heartbeat to live-internal.fivem.net:30110
+[   1213687] hitch warning: frame time of 395 milliseconds
+[   1213781] hitch warning: frame time of 742 milliseconds
+[   1343078] Sending heartbeat to live-internal.fivem.net:30110
+[   1408484] eddie5210200: quit
+[   1410734] Sending heartbeat to live-internal.fivem.net:30110
+[   1526031] Initializing Mono
+[   1526047] Initializing Mono completed
+[   1526062] Hello!
+[   1526141] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[   1526281] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[   1526297] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[   1526312] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[   1526328] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[   1526344] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[   1526359] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[   1526375] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[   1526406] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[   1526422] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[   1526453] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[   1526469] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[   1526547] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[   1526625] Found new resource mymode in C:/Main\cfx-server-data-master/resources//[local]/mymode
+[   1526641] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[   1526656] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[   1526672] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[   1526687] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[   1526703] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[   1526719] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[   1526734] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[   1526750] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[   1526750] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[   1526766] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[   1526781] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[   1526844] Started resource sessionmanager
+[   1526859] Started resource mapmanager
+[   1526891] Started resource chat
+[   1526891] Started resource spawnmanager
+[   1526891] Started gametype Freeroam
+[   1526906] Started resource fivem
+[   1526922] Started resource hardcap
+[   1526937] Started resource rconlog
+[   1526969] Started resource scoreboard
+[   1527000] Started resource playernames
+[   1527000] ^3Couldn't find resource CarCommand.^7
+[   1527000] Authenticating server license key...
+[   1528125] Server license key authentication succeeded. Welcome!
+[   1528187] Sending heartbeat to live-internal.fivem.net:30110
+[   1528187] Started map fivem-map-skater
+[   1528203] Started resource fivem-map-skater
+[   1534766] Connecting: eddie5210200
+[   1535484] Sending heartbeat to live-internal.fivem.net:30110
+[   1715500] Sending heartbeat to live-internal.fivem.net:30110
+[   1895531] Sending heartbeat to live-internal.fivem.net:30110
+[   1968500] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        63] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       109] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       141] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       141] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       172] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       188] Found new resource client in C:/Main\cfx-server-data-master/resources//[local]/client
+[       203] Resource loading for client failed:
+[       203] Could not open resource metadata file C:/Main\cfx-server-data-master/resources//[local]/client/__resource.lua.
+[       203] Found new resource server in C:/Main\cfx-server-data-master/resources//[local]/server
+[       203] Resource loading for server failed:
+[       219] Could not open resource metadata file C:/Main\cfx-server-data-master/resources//[local]/server/__resource.lua.
+[       219] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       219] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       234] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       234] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       234] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       250] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       250] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       266] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       266] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       281] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       281] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       313] Started resource sessionmanager
+[       328] Started resource mapmanager
+[       344] Started resource chat
+[       344] Started resource spawnmanager
+[       359] Started gametype Freeroam
+[       359] Started resource fivem
+[       359] Started resource hardcap
+[       375] Started resource rconlog
+[       375] Started resource scoreboard
+[       391] Started resource playernames
+[       391] ^3Couldn't find resource local.^7
+[       391] Authenticating server license key...
+[      1328] Server license key authentication succeeded. Welcome!
+[      1375] Sending heartbeat to live-internal.fivem.net:30110
+[      1375] Started map fivem-map-skater
+[      1375] Started resource fivem-map-skater
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[        16] Hello!
+[        47] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        78] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[        78] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[        94] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[        94] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       109] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       109] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       109] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       125] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       125] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       141] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       141] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       156] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       156] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       156] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       172] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       172] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       172] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       172] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       188] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       188] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       188] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       219] Started resource sessionmanager
+[       234] Started resource mapmanager
+[       250] Started resource chat
+[       250] Started resource spawnmanager
+[       250] Started gametype Freeroam
+[       250] Started resource fivem
+[       266] Started resource hardcap
+[       266] Started resource rconlog
+[       281] Started resource scoreboard
+[       281] Started resource playernames
+[       297] Failed to load script server/server.lua.
+[       297] Started resource race
+[       297] Authenticating server license key...
+[      1172] Server license key authentication succeeded. Welcome!
+[      1219] Sending heartbeat to live-internal.fivem.net:30110
+[      1219] Started map fivem-map-hipster
+[      1234] Started resource fivem-map-hipster
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        15] Hello!
+[        62] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        94] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       125] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       140] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       140] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       172] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       187] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       187] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       219] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       234] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       265] Started resource sessionmanager
+[       281] Started resource mapmanager
+[       297] Started resource chat
+[       297] Started resource spawnmanager
+[       297] Started gametype Freeroam
+[       312] Started resource fivem
+[       312] Started resource hardcap
+[       328] Started resource rconlog
+[       328] Started resource scoreboard
+[       344] Started resource playernames
+[       344] Failed to load script server/server.lua.
+[       359] Started resource race
+[       359] Authenticating server license key...
+[      1140] Server license key authentication succeeded. Welcome!
+[      1187] Sending heartbeat to live-internal.fivem.net:30110
+[      1203] Started map fivem-map-hipster
+[      1203] Started resource fivem-map-hipster
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[        15] Hello!
+[        46] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        78] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[        93] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[        93] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[        93] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[        93] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       109] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       109] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       109] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       125] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       125] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       140] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       140] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[       140] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       156] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       156] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       156] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       171] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       171] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       171] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       187] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       187] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       203] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       203] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       234] Started resource sessionmanager
+[       250] Started resource mapmanager
+[       265] Started resource chat
+[       265] Started resource spawnmanager
+[       281] Started gametype Freeroam
+[       281] Started resource fivem
+[       281] Started resource hardcap
+[       296] Started resource rconlog
+[       296] Started resource scoreboard
+[       312] Started resource playernames
+[       312] Changing gametype from fivem to race
+[       312] Stopping resource fivem
+[       328] Started gametype Race
+[       328] Started resource race
+[       328] Authenticating server license key...
+[      1218] Server license key authentication succeeded. Welcome!
+[      1281] Sending heartbeat to live-internal.fivem.net:30110
+[      1281] mmmmmm race
+[      1281] Started map race-test
+[      1281] Started resource race-test
+[     43796] Connecting: eddie5210200
+[     44546] Sending heartbeat to live-internal.fivem.net:30110
+[    224562] Sending heartbeat to live-internal.fivem.net:30110
+[    231859] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[         0] Initializing Mono completed
+[        16] Hello!
+[        63] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        94] ^3Couldn't find resource sessionmanager.^7
+[       110] GlobalError: This server does not have a license key specified. Please set the sv_licenseKey console variable to a key from https://keymaster.fivem.net/. (for example, `set sv_licenseKey "key"` in the config, or `+set sv_licenseKey key` on the command line)
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        63] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        94] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[       110] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[       110] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       125] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       141] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       157] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       157] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       172] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[       188] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       188] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       188] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       204] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       204] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       219] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       219] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       219] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       235] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       235] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       250] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       282] Started resource sessionmanager
+[       297] Started resource mapmanager
+[       297] Started resource chat
+[       313] Started resource spawnmanager
+[       313] Started gametype Freeroam
+[       313] Started resource fivem
+[       329] Started resource hardcap
+[       329] Started resource rconlog
+[       344] Started resource scoreboard
+[       344] Started resource playernames
+[       360] Error parsing script server/server.lua in resource race2: server/server.lua:2: unexpected symbol near ')'
+[       360] Failed to load script server/server.lua.
+[       375] Started resource race2
+[       375] Authenticating server license key...
+[      1344] Server license key authentication succeeded. Welcome!
+[      1391] Sending heartbeat to live-internal.fivem.net:30110
+[      1407] Started map fivem-map-hipster
+[      1407] Started resource fivem-map-hipster
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[        62] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        94] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       125] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       172] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[       172] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       187] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       203] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       219] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       219] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       219] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       250] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       281] Started resource sessionmanager
+[       281] Started resource mapmanager
+[       297] Started resource chat
+[       312] Started resource spawnmanager
+[       312] Started gametype Freeroam
+[       312] Started resource fivem
+[       312] Started resource hardcap
+[       328] Started resource rconlog
+[       328] Started resource scoreboard
+[       344] Started resource playernames
+[       344] Error parsing script server/server.lua in resource race2: server/server.lua:37: <eof> expected near 'end'
+[       359] Failed to load script server/server.lua.
+[       359] Started resource race2
+[       359] Authenticating server license key...
+[      1187] Server license key authentication succeeded. Welcome!
+[      1234] Sending heartbeat to live-internal.fivem.net:30110
+[      1234] Started map fivem-map-skater
+[      1234] Started resource fivem-map-skater
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        47] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        94] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       109] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       125] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       141] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       172] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[       172] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       172] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       188] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       188] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       219] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       219] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       234] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       266] Started resource sessionmanager
+[       281] Started resource mapmanager
+[       297] Started resource chat
+[       297] Started resource spawnmanager
+[       297] Started gametype Freeroam
+[       297] Started resource fivem
+[       313] Started resource hardcap
+[       328] Started resource rconlog
+[       328] Started resource scoreboard
+[       344] Started resource playernames
+[       359] Error parsing script server/server.lua in resource race2: server/server.lua:37: <eof> expected near 'end'
+[       359] Failed to load script server/server.lua.
+[       359] Started resource race2
+[       359] Authenticating server license key...
+[      1313] Server license key authentication succeeded. Welcome!
+[      1375] Sending heartbeat to live-internal.fivem.net:30110
+[      1375] Started map fivem-map-hipster
+[      1375] Started resource fivem-map-hipster
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[        62] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        93] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       125] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       140] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       140] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       140] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       156] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[       171] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       171] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       171] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       187] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       187] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       187] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       203] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       203] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       218] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       250] Started resource sessionmanager
+[       265] Started resource mapmanager
+[       281] Started resource chat
+[       281] Started resource spawnmanager
+[       281] Started gametype Freeroam
+[       296] Started resource fivem
+[       296] Started resource hardcap
+[       312] Started resource rconlog
+[       312] Started resource scoreboard
+[       312] Started resource playernames
+[       328] Error parsing script server/server.lua in resource race2: server/server.lua:27: ')' expected (to close '(' at line 18) near 'end'
+[       328] Failed to load script server/server.lua.
+[       343] Started resource race2
+[       343] Authenticating server license key...
+[      2109] Server license key authentication succeeded. Welcome!
+[      2171] Sending heartbeat to live-internal.fivem.net:30110
+[      2171] Started map fivem-map-hipster
+[      2171] Started resource fivem-map-hipster
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        47] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        94] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[       109] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       125] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       141] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       156] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       172] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[       172] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       172] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       187] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       187] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       203] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       219] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       219] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       219] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       234] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       266] Started resource sessionmanager
+[       281] Started resource mapmanager
+[       297] Started resource chat
+[       297] Started resource spawnmanager
+[       297] Started gametype Freeroam
+[       297] Started resource fivem
+[       312] Started resource hardcap
+[       312] Started resource rconlog
+[       328] Started resource scoreboard
+[       344] Started resource playernames
+[       344] Error parsing script server/server.lua in resource race2: server/server.lua:37: <eof> expected near 'end'
+[       344] Failed to load script server/server.lua.
+[       359] Started resource race2
+[       359] Authenticating server license key...
+[      2156] Server license key authentication succeeded. Welcome!
+[      2219] Sending heartbeat to live-internal.fivem.net:30110
+[      2219] Started map fivem-map-skater
+[      2219] Started resource fivem-map-skater
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[        62] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       109] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       125] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       125] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       140] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       140] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       140] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       156] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       156] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       172] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[       187] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       187] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       203] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       203] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       218] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       218] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       218] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       234] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       234] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       281] Started resource sessionmanager
+[       297] Started resource mapmanager
+[       297] Started resource chat
+[       312] Started resource spawnmanager
+[       312] Started gametype Freeroam
+[       312] Started resource fivem
+[       312] Started resource hardcap
+[       328] Started resource rconlog
+[       328] Started resource scoreboard
+[       343] Started resource playernames
+[       343] Started resource race2
+[       343] Authenticating server license key...
+[      1375] Server license key authentication succeeded. Welcome!
+[      1422] Sending heartbeat to live-internal.fivem.net:30110
+[      1422] Started map fivem-map-skater
+[      1437] Started resource fivem-map-skater
+[     25687] Connecting: eddie5210200
+[     26422] Sending heartbeat to live-internal.fivem.net:30110
+[    206453] Sending heartbeat to live-internal.fivem.net:30110
+[    386468] Sending heartbeat to live-internal.fivem.net:30110
+[    458687] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[        63] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        78] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[        94] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       109] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       109] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       109] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       172] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       172] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       188] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[       188] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       203] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       203] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       203] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       219] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       219] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       219] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       234] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       234] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       250] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       250] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       281] Started resource sessionmanager
+[       297] Started resource mapmanager
+[       313] Started resource chat
+[       313] Started resource spawnmanager
+[       313] Started gametype Freeroam
+[       313] Started resource fivem
+[       328] Started resource hardcap
+[       328] Started resource rconlog
+[       344] Started resource scoreboard
+[       344] Started resource playernames
+[       359] Started resource race2
+[       359] Authenticating server license key...
+[      1219] Server license key authentication succeeded. Welcome!
+[      1281] Sending heartbeat to live-internal.fivem.net:30110
+[      1281] Started map fivem-map-hipster
+[      1281] Started resource fivem-map-hipster
+[     62703] Connecting: eddie5210200
+[     63391] Sending heartbeat to live-internal.fivem.net:30110
+[    243422] Sending heartbeat to live-internal.fivem.net:30110
+[    423438] Sending heartbeat to live-internal.fivem.net:30110
+[    581500] hitch warning: frame time of 185 milliseconds
+[    584766] hitch warning: frame time of 158 milliseconds
+[    603469] Sending heartbeat to live-internal.fivem.net:30110
+[    731203] hitch warning: frame time of 171 milliseconds
+[    768750] Initializing Mono
+[    768781] Initializing Mono completed
+[    768797] Hello!
+[    768891] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[    769000] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[    769016] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[    769031] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[    769047] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[    769063] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[    769078] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[    769094] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[    769109] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[    769109] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[    769141] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[    769156] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[    769203] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[    769219] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[    769250] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[    769266] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[    769281] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[    769281] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[    769297] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[    769313] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[    769328] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[    769344] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[    769344] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[    769359] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[    769375] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[    769484] Started resource sessionmanager
+[    769531] Started resource mapmanager
+[    769578] Started resource chat
+[    769609] Started resource spawnmanager
+[    769625] Started gametype Freeroam
+[    769625] Started resource fivem
+[    769641] Started resource hardcap
+[    769672] Started resource rconlog
+[    769688] Started resource scoreboard
+[    769719] Started resource playernames
+[    769766] Started resource race2
+[    769781] Authenticating server license key...
+[    770750] Server license key authentication succeeded. Welcome!
+[    770813] Sending heartbeat to live-internal.fivem.net:30110
+[    770828] Started map fivem-map-skater
+[    770828] Started resource fivem-map-skater
+[    792500] Connecting: eddie5210200
+[    793594] Sending heartbeat to live-internal.fivem.net:30110
+[    973594] Sending heartbeat to live-internal.fivem.net:30110
+[   1147656] Initializing Mono
+[   1147688] Initializing Mono completed
+[   1147688] Hello!
+[   1147766] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[   1147813] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[   1147828] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[   1147844] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[   1147844] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[   1147859] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[   1147859] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[   1147875] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[   1147891] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[   1147891] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[   1147906] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[   1147906] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[   1147922] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[   1147922] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[   1147938] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[   1147938] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[   1147953] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[   1147969] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[   1147984] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[   1148000] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[   1148016] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[   1148031] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[   1148031] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[   1148047] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[   1148047] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[   1148094] Started resource sessionmanager
+[   1148125] Started resource mapmanager
+[   1148141] Started resource chat
+[   1148141] Started resource spawnmanager
+[   1148156] Started gametype Freeroam
+[   1148156] Started resource fivem
+[   1148156] Started resource hardcap
+[   1148188] Started resource rconlog
+[   1148188] Started resource scoreboard
+[   1148219] Started resource playernames
+[   1148234] Started resource race2
+[   1148234] Authenticating server license key...
+[   1149109] Server license key authentication succeeded. Welcome!
+[   1149156] Sending heartbeat to live-internal.fivem.net:30110
+[   1149172] Started map fivem-map-hipster
+[   1149172] Started resource fivem-map-hipster
+[   1157969] Connecting: eddie5210200
+[   1158359] Sending heartbeat to live-internal.fivem.net:30110
+[   1338406] Sending heartbeat to live-internal.fivem.net:30110
+[   1363313] Initializing Mono
+[   1363328] Initializing Mono completed
+[   1363344] Hello!
+[   1363406] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[   1363484] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[   1363500] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[   1363500] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[   1363516] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[   1363516] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[   1363531] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[   1363531] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[   1363547] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[   1363547] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[   1363563] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[   1363563] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[   1363578] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[   1363578] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[   1363594] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[   1363609] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[   1363609] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[   1363625] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[   1363625] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[   1363641] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[   1363641] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[   1363656] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[   1363656] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[   1363672] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[   1363672] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[   1363734] Started resource sessionmanager
+[   1363766] Started resource mapmanager
+[   1363781] Started resource chat
+[   1363797] Started resource spawnmanager
+[   1363797] Started gametype Freeroam
+[   1363813] Started resource fivem
+[   1363828] Started resource hardcap
+[   1363844] Started resource rconlog
+[   1363844] Started resource scoreboard
+[   1363875] Started resource playernames
+[   1363891] Started resource race2
+[   1363891] Authenticating server license key...
+[   1364828] Server license key authentication succeeded. Welcome!
+[   1364891] Sending heartbeat to live-internal.fivem.net:30110
+[   1364891] Started map fivem-map-skater
+[   1364906] Started resource fivem-map-skater
+[   1386844] Connecting: eddie5210200
+[   1387406] Sending heartbeat to live-internal.fivem.net:30110
+[   1567422] Sending heartbeat to live-internal.fivem.net:30110
+[   1676609] Initializing Mono
+[   1676641] Initializing Mono completed
+[   1676656] Hello!
+[   1676813] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[   1676891] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[   1676938] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[   1676969] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[   1676984] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[   1677000] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[   1677016] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[   1677031] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[   1677063] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[   1677063] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[   1677078] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[   1677109] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[   1677141] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[   1677172] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[   1677188] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[   1677203] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[   1677219] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[   1677234] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[   1677250] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[   1677266] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[   1677281] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[   1677297] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[   1677313] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[   1677328] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[   1677344] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[   1677469] Started resource sessionmanager
+[   1677531] Started resource mapmanager
+[   1677594] Started resource chat
+[   1677609] Started resource spawnmanager
+[   1677625] Started gametype Freeroam
+[   1677625] Started resource fivem
+[   1677688] Started resource hardcap
+[   1677844] Started resource rconlog
+[   1677906] Started resource scoreboard
+[   1677922] Started resource playernames
+[   1677953] Started resource race2
+[   1677969] Authenticating server license key...
+[   1679359] Server license key authentication succeeded. Welcome!
+[   1679422] Sending heartbeat to live-internal.fivem.net:30110
+[   1679438] Started map fivem-map-skater
+[   1679453] Started resource fivem-map-skater
+[   1697063] Connecting: eddie5210200
+[   1697672] Sending heartbeat to live-internal.fivem.net:30110
+[   1743203] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   1743203] stack traceback:
+[   1743203] 	[C]: in function 'error'
+[   1743203] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   1743203] 	server/server.lua:6: in function <server/server.lua:3>
+[   1757563] hitch warning: frame time of 159 milliseconds
+[   1794531] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   1794531] stack traceback:
+[   1794547] 	[C]: in function 'error'
+[   1794547] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   1794547] 	server/server.lua:6: in function <server/server.lua:3>
+[   1847156] hitch warning: frame time of 172 milliseconds
+[   1851266] ^3Couldn't find resource script.^7
+[   1866922] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   1866922] stack traceback:
+[   1866922] 	[C]: in function 'error'
+[   1866922] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   1866938] 	server/server.lua:6: in function <server/server.lua:3>
+[   1877781] Sending heartbeat to live-internal.fivem.net:30110
+[   1885719] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   1885734] stack traceback:
+[   1885734] 	[C]: in function 'error'
+[   1885734] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   1885734] 	server/server.lua:6: in function <server/server.lua:3>
+[   1905875] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   1905875] stack traceback:
+[   1905875] 	[C]: in function 'error'
+[   1905891] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   1905891] 	server/server.lua:6: in function <server/server.lua:3>
+[   1941766] eddie5210200: race
+[   1943406] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   1943406] stack traceback:
+[   1943406] 	[C]: in function 'error'
+[   1943406] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   1943406] 	server/server.lua:6: in function <server/server.lua:3>
+[   1978109] Stopping resource race2
+[   1978156] Started resource race2
+[   1988078] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   1988078] stack traceback:
+[   1988078] 	[C]: in function 'error'
+[   1988078] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   1988078] 	server/server.lua:6: in function <server/server.lua:3>
+[   2041203] Stopping resource race2
+[   2041250] Started resource race2
+[   2049813] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   2049813] stack traceback:
+[   2049813] 	[C]: in function 'error'
+[   2049813] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   2049813] 	server/server.lua:6: in function <server/server.lua:3>
+[   2057797] Sending heartbeat to live-internal.fivem.net:30110
+[   2069750] Stopping resource race2
+[   2069797] Started resource race2
+[   2120297] Stopping resource race2
+[   2120328] Started resource race2
+[   2129578] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   2129578] stack traceback:
+[   2129578] 	[C]: in function 'error'
+[   2129578] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   2129578] 	server/server.lua:6: in function <server/server.lua:3>
+[   2237813] Sending heartbeat to live-internal.fivem.net:30110
+[   2339078] Stopping resource race2
+[   2339109] Started resource race2
+[   2352156] Stopping resource race2
+[   2352203] Started resource race2
+[   2372156] Stopping resource race2
+[   2372219] Started resource race2
+[   2387984] server race started
+[   2388031] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   2388031] stack traceback:
+[   2388031] 	[C]: in function 'error'
+[   2388031] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   2388031] 	server/server.lua:7: in function <server/server.lua:3>
+[   2417844] Sending heartbeat to live-internal.fivem.net:30110
+[   2444469] Stopping resource race2
+[   2444484] Started resource race2
+[   2450641] server race started
+[   2450672] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   2450672] stack traceback:
+[   2450672] 	[C]: in function 'error'
+[   2450672] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   2450672] 	server/server.lua:7: in function <server/server.lua:3>
+[   2527000] Stopping resource race2
+[   2527031] Started resource race2
+[   2544656] Stopping resource race2
+[   2544688] Started resource race2
+[   2550859] server race started
+[   2550891] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   2550891] stack traceback:
+[   2550891] 	[C]: in function 'error'
+[   2550891] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   2550891] 	server/server.lua:7: in function <server/server.lua:3>
+[   2597875] Sending heartbeat to live-internal.fivem.net:30110
+[   2602438] Stopping resource race2
+[   2602484] Started resource race2
+[   2607922] server race started
+[   2607953] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   2607953] stack traceback:
+[   2607953] 	[C]: in function 'error'
+[   2607953] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   2607953] 	server/server.lua:7: in function <server/server.lua:3>
+[   2663281] server race started
+[   2663328] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   2663328] stack traceback:
+[   2663328] 	[C]: in function 'error'
+[   2663328] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   2663328] 	server/server.lua:7: in function <server/server.lua:3>
+[   2717109] Stopping resource race2
+[   2717156] Started resource race2
+[   2720141] server race started
+[   2720172] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   2720172] stack traceback:
+[   2720172] 	[C]: in function 'error'
+[   2720172] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   2720172] 	server/server.lua:7: in function <server/server.lua:3>
+[   2734281] Stopping resource race2
+[   2734328] Started resource race2
+[   2736250] server race started
+[   2736281] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   2736281] stack traceback:
+[   2736281] 	[C]: in function 'error'
+[   2736281] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   2736281] 	server/server.lua:7: in function <server/server.lua:3>
+[   2777906] Sending heartbeat to live-internal.fivem.net:30110
+[   2825531] Stopping resource race2
+[   2825578] Started resource race2
+[   2831422] server race started
+[   2831453] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   2831453] stack traceback:
+[   2831453] 	[C]: in function 'error'
+[   2831453] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   2831453] 	server/server.lua:7: in function <server/server.lua:3>
+[   2909109] Stopping resource race2
+[   2909141] Started resource race2
+[   2925781] Stopping resource race2
+[   2925828] Started resource race2
+[   2929484] server race started
+[   2929516] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   2929516] stack traceback:
+[   2929516] 	[C]: in function 'error'
+[   2929516] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   2929516] 	server/server.lua:7: in function <server/server.lua:3>
+[   2957938] Sending heartbeat to live-internal.fivem.net:30110
+[   3066250] Stopping resource race2
+[   3066281] Started resource race2
+[   3095422] Stopping resource race2
+[   3095469] Started resource race2
+[   3129797] Stopping resource race2
+[   3129844] Started resource race2
+[   3138016] Sending heartbeat to live-internal.fivem.net:30110
+[   3268234] Stopping resource race2
+[   3268281] Started resource race2
+[   3287719] Stopping resource race2
+[   3287750] Started resource race2
+[   3318063] Sending heartbeat to live-internal.fivem.net:30110
+[   3332000] Stopping resource race2
+[   3332031] Started resource race2
+[   3359359] Stopping resource race2
+[   3359391] Started resource race2
+[   3383734] Stopping resource race2
+[   3383766] Started resource race2
+[   3463813] Stopping resource race2
+[   3463859] Started resource race2
+[   3498078] Sending heartbeat to live-internal.fivem.net:30110
+[   3506734] server race started
+[   3506766] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   3506766] stack traceback:
+[   3506766] 	[C]: in function 'error'
+[   3506766] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   3506766] 	server/server.lua:7: in function <server/server.lua:3>
+[   3518578] server race started
+[   3518641] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   3518641] stack traceback:
+[   3518641] 	[C]: in function 'error'
+[   3518641] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   3518641] 	server/server.lua:7: in function <server/server.lua:3>
+[   3560156] Stopping resource race2
+[   3560203] Started resource race2
+[   3564484] server race started
+[   3564516] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   3564516] stack traceback:
+[   3564531] 	[C]: in function 'error'
+[   3564531] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   3564531] 	server/server.lua:7: in function <server/server.lua:3>
+[   3629281] Stopping resource race2
+[   3629328] Started resource race2
+[   3639141] server race started
+[   3639188] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   3639188] stack traceback:
+[   3639188] 	[C]: in function 'error'
+[   3639203] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   3639203] 	server/server.lua:7: in function <server/server.lua:3>
+[   3678094] Sending heartbeat to live-internal.fivem.net:30110
+[   3681953] server race started
+[   3681984] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   3681984] stack traceback:
+[   3681984] 	[C]: in function 'error'
+[   3681984] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   3681984] 	server/server.lua:7: in function <server/server.lua:3>
+[   3819719] Stopping resource race2
+[   3819766] Started resource race2
+[   3827172] server race started
+[   3827250] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   3827250] stack traceback:
+[   3827250] 	[C]: in function 'error'
+[   3827250] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   3827266] 	server/server.lua:7: in function <server/server.lua:3>
+[   3858141] Sending heartbeat to live-internal.fivem.net:30110
+[   3894906] Stopping resource race2
+[   3894953] Started resource race2
+[   3901094] server race started
+[   3901125] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   3901125] stack traceback:
+[   3901125] 	[C]: in function 'error'
+[   3901125] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   3901125] 	server/server.lua:7: in function <server/server.lua:3>
+[   4013016] server race started
+[   4013063] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4013078] stack traceback:
+[   4013078] 	[C]: in function 'error'
+[   4013078] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4013078] 	server/server.lua:7: in function <server/server.lua:3>
+[   4038156] Sending heartbeat to live-internal.fivem.net:30110
+[   4068469] Stopping resource race2
+[   4068516] Started resource race2
+[   4086203] Stopping resource race2
+[   4086250] Started resource race2
+[   4218188] Sending heartbeat to live-internal.fivem.net:30110
+[   4251609] Stopping resource race2
+[   4251656] Started resource race2
+[   4295313] Stopping resource race2
+[   4295359] Started resource race2
+[   4315484] Stopping resource race2
+[   4315531] Started resource race2
+[   4344250] Stopping resource race2
+[   4344297] Started resource race2
+[   4379906] Stopping resource race2
+[   4379969] Started resource race2
+[   4398188] Sending heartbeat to live-internal.fivem.net:30110
+[   4403141] Stopping resource race2
+[   4403188] Started resource race2
+[   4445375] Stopping resource race2
+[   4445438] Started resource race2
+[   4458672] Stopping resource race2
+[   4458703] Started resource race2
+[   4479109] server race started
+[   4479141] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4479141] stack traceback:
+[   4479141] 	[C]: in function 'error'
+[   4479141] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4479141] 	server/server.lua:7: in function <server/server.lua:3>
+[   4536766] server race started
+[   4536797] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4536797] stack traceback:
+[   4536797] 	[C]: in function 'error'
+[   4536797] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4536797] 	server/server.lua:7: in function <server/server.lua:3>
+[   4578219] Sending heartbeat to live-internal.fivem.net:30110
+[   4758266] Sending heartbeat to live-internal.fivem.net:30110
+[   4838172] Stopping resource race2
+[   4838219] Started resource race2
+[   4848875] server race started
+[   4849453] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4849453] stack traceback:
+[   4849453] 	[C]: in function 'error'
+[   4849453] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4849453] 	server/server.lua:7: in upvalue 'handler'
+[   4849453] 	citizen:/scripting/lua/scheduler.lua:175: in function <citizen:/scripting/lua/scheduler.lua:174>
+[   4938281] Sending heartbeat to live-internal.fivem.net:30110
+[   5118313] Sending heartbeat to live-internal.fivem.net:30110
+[   5298344] Sending heartbeat to live-internal.fivem.net:30110
+[   5478359] Sending heartbeat to live-internal.fivem.net:30110
+[   5658391] Sending heartbeat to live-internal.fivem.net:30110
+[   5838422] Sending heartbeat to live-internal.fivem.net:30110
+[   6018469] Sending heartbeat to live-internal.fivem.net:30110
+[   6198484] Sending heartbeat to live-internal.fivem.net:30110
+[   6378516] Sending heartbeat to live-internal.fivem.net:30110
+[   6415406] Sending heartbeat to live-internal.fivem.net:30110
+[   6595453] Sending heartbeat to live-internal.fivem.net:30110
+[   6775516] Sending heartbeat to live-internal.fivem.net:30110
+[   6955531] Sending heartbeat to live-internal.fivem.net:30110
+[   7135578] Sending heartbeat to live-internal.fivem.net:30110
+[   7315594] Sending heartbeat to live-internal.fivem.net:30110
+[   7495609] Sending heartbeat to live-internal.fivem.net:30110
+[   7675609] Sending heartbeat to live-internal.fivem.net:30110
