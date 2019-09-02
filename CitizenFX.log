@@ -1306,3 +1306,1781 @@
 [   7315594] Sending heartbeat to live-internal.fivem.net:30110
 [   7495609] Sending heartbeat to live-internal.fivem.net:30110
 [   7675609] Sending heartbeat to live-internal.fivem.net:30110
+[      8734] Initializing Mono
+[      8765] Initializing Mono completed
+[      8765] Hello!
+[      8844] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[      8890] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[      8906] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[      8906] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[      8922] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[      8922] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[      8937] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[      8953] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[      8969] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[      8969] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[      9062] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[      9172] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[      9328] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[      9344] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[      9390] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[      9406] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[      9437] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[      9453] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[      9469] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[      9484] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[      9500] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[      9531] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[      9531] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[      9547] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[      9562] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[      9656] Started resource sessionmanager
+[      9734] Started resource mapmanager
+[      9765] Started resource chat
+[      9781] Started resource spawnmanager
+[      9797] Started gametype Freeroam
+[      9797] Started resource fivem
+[      9828] Started resource hardcap
+[     10625] Started resource rconlog
+[     10797] Started resource scoreboard
+[     10828] Started resource playernames
+[     10859] Started resource race2
+[     11062] Authenticating server license key...
+[     30672] Connecting: eddie5210200
+[     32109] Server license key authentication succeeded. Welcome!
+[     32172] Sending heartbeat to live-internal.fivem.net:30110
+[     32203] Started map fivem-map-hipster
+[     32203] Started resource fivem-map-hipster
+[    173515] Stopping resource race2
+[    173578] Started resource race2
+[    191375] server race started
+[    212234] Sending heartbeat to live-internal.fivem.net:30110
+[    285062] Stopping resource race2
+[    285109] Started resource race2
+[    304078] Stopping resource race2
+[    304109] Started resource race2
+[    309453] server race started
+[    333406] Stopping resource race2
+[    333437] Started resource race2
+[    336953] server race started
+[    392875] Sending heartbeat to live-internal.fivem.net:30110
+[    392890] hitch warning: frame time of 627 milliseconds
+[    397890] server race started
+[    437984] Stopping resource race2
+[    438031] Started resource race2
+[    447531] server race started
+[    477578] Stopping resource race2
+[    477625] Started resource race2
+[    484281] hitch warning: frame time of 260 milliseconds
+[    484312] hitch warning: frame time of 562 milliseconds
+[    490437] server race started
+[    507094] ^3Couldn't find resource 1.^7
+[    509531] ^3Couldn't find resource 0.^7
+[    515969] Stopping resource race2
+[    515984] Started resource race2
+[    572922] Sending heartbeat to live-internal.fivem.net:30110
+[    614219] Stopping resource race2
+[    614281] Started resource race2
+[    652734] Stopping resource race2
+[    652937] Started resource race2
+[    652937] hitch warning: frame time of 234 milliseconds
+[    683375] Stopping resource race2
+[    683437] Started resource race2
+[    702312] Stopping resource race2
+[    702359] Started resource race2
+[    752953] Sending heartbeat to live-internal.fivem.net:30110
+[    788515] Stopping resource race2
+[    788578] Started resource race2
+[    850344] Initializing Mono
+[    850406] Initializing Mono completed
+[    850437] Hello!
+[    850750] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[    851203] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[    851219] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[    851250] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[    851281] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[    851297] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[    851312] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[    851359] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[    851375] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[    851406] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[    851422] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[    851469] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[    851500] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[    851515] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[    851547] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[    851578] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[    851609] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[    851625] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[    851656] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[    851672] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[    851703] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[    851734] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[    851750] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[    851765] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[    851781] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[    851984] Started resource sessionmanager
+[    852015] Started resource mapmanager
+[    852203] Started resource chat
+[    852234] Started resource spawnmanager
+[    852265] Started gametype Freeroam
+[    852281] Started resource fivem
+[    852312] Started resource hardcap
+[    852328] Started resource rconlog
+[    852344] Started resource scoreboard
+[    852375] Started resource playernames
+[    852437] Started resource race2
+[    852453] Authenticating server license key...
+[    853422] Server license key authentication succeeded. Welcome!
+[    853484] Sending heartbeat to live-internal.fivem.net:30110
+[    853500] Started map fivem-map-hipster
+[    853515] Started resource fivem-map-hipster
+[    859125] Connecting: eddie5210200
+[    859890] Sending heartbeat to live-internal.fivem.net:30110
+[    999906] Sending heartbeat to live-internal.fivem.net:30110
+[   1056375] Connecting: eddie5210200
+[   1057062] Sending heartbeat to live-internal.fivem.net:30110
+[   1237094] Sending heartbeat to live-internal.fivem.net:30110
+[   1290828] Initializing Mono
+[   1290859] Initializing Mono completed
+[   1290875] Hello!
+[   1290969] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[   1291062] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[   1291078] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[   1291094] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[   1291109] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[   1291109] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[   1291125] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[   1291140] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[   1291156] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[   1291156] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[   1291172] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[   1291187] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[   1291187] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[   1291203] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[   1291203] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[   1291219] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[   1291234] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[   1291250] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[   1291265] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[   1291281] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[   1291312] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[   1291312] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[   1291344] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[   1291359] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[   1291375] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[   1291500] Started resource sessionmanager
+[   1291531] Started resource mapmanager
+[   1291578] Started resource chat
+[   1291594] Started resource spawnmanager
+[   1291609] Started gametype Freeroam
+[   1291609] Started resource fivem
+[   1291625] Started resource hardcap
+[   1291640] Started resource rconlog
+[   1291656] Started resource scoreboard
+[   1291672] Started resource playernames
+[   1291703] Started map race2
+[   1291703] Started resource race2
+[   1291703] Authenticating server license key...
+[   1292625] Server license key authentication succeeded. Welcome!
+[   1292687] Sending heartbeat to live-internal.fivem.net:30110
+[   1313250] Connecting: eddie5210200
+[   1313890] Sending heartbeat to live-internal.fivem.net:30110
+[   1493922] Sending heartbeat to live-internal.fivem.net:30110
+[   1607375] Stopping resource race2
+[   1607422] Started map race2
+[   1607437] Started resource race2
+[   1623375] Stopping resource race2
+[   1623437] Started map race2
+[   1623437] Started resource race2
+[   1644594] server race started
+[   1668953] Stopping resource race2
+[   1669000] Started map race2
+[   1669015] Started resource race2
+[   1673953] Sending heartbeat to live-internal.fivem.net:30110
+[   1711265] Stopping resource race2
+[   1711312] Started map race2
+[   1711312] Started resource race2
+[   1747172] Stopping resource race2
+[   1747219] Started map race2
+[   1747219] Started resource race2
+[      2266] Initializing Mono
+[      2297] Initializing Mono completed
+[      2297] Hello!
+[      2359] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[      2422] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[      2437] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[      2437] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[      2453] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[      2469] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[      2469] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[      2484] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[      2484] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[      2500] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[      2516] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[      2516] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[      2531] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[      2531] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[      2547] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[      2547] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[      2562] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[      2562] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[      2578] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[      2578] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[      2594] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[      2594] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[      2609] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[      2609] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[      2625] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[      2672] Started resource sessionmanager
+[      2687] Started resource mapmanager
+[      2703] Started resource chat
+[      2703] Started resource spawnmanager
+[      2719] Started gametype Freeroam
+[      2719] Started resource fivem
+[      2734] Started resource hardcap
+[      2750] Started resource rconlog
+[      2750] Started resource scoreboard
+[      2781] Started resource playernames
+[      2781] Started map race2
+[      2781] Started resource race2
+[      2797] Authenticating server license key...
+[      3687] Server license key authentication succeeded. Welcome!
+[      3750] Sending heartbeat to live-internal.fivem.net:30110
+[     31062] Connecting: eddie5210200
+[     31703] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        47] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        94] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[       109] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       141] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       141] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       141] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       156] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       172] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       188] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       188] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[       188] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       203] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       203] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       219] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       219] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       234] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       234] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       250] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       250] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       266] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       266] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       313] Started resource sessionmanager
+[       328] Started resource mapmanager
+[       344] Started resource chat
+[       359] Started resource spawnmanager
+[       359] Started gametype Freeroam
+[       359] Started resource fivem
+[       375] Started resource hardcap
+[       391] Started resource rconlog
+[       391] Started resource scoreboard
+[       406] Started resource playernames
+[       406] Started map race2
+[       422] Started resource race2
+[       422] Authenticating server license key...
+[      1313] Server license key authentication succeeded. Welcome!
+[      1359] Sending heartbeat to live-internal.fivem.net:30110
+[     20297] Connecting: eddie5210200
+[     21016] Sending heartbeat to live-internal.fivem.net:30110
+[    185641] Can't restart a stopped resource.
+[    189859] Stopping resource race2
+[    189906] Started map race2
+[    189906] Started resource race2
+[    201031] Sending heartbeat to live-internal.fivem.net:30110
+[    296828] Stopping resource race2
+[    296875] Started map race2
+[    296891] Started resource race2
+[    322719] Stopping resource race2
+[    322766] Started map race2
+[    322766] Started resource race2
+[    347609] Stopping resource race2
+[    347641] Started map race2
+[    347656] Started resource race2
+[    376984] Stopping resource race2
+[    377031] Started map race2
+[    377031] Started resource race2
+[    381063] Sending heartbeat to live-internal.fivem.net:30110
+[    392703] Stopping resource race2
+[    393000] Started map race2
+[    393000] Started resource race2
+[    393016] hitch warning: frame time of 329 milliseconds
+[    431063] server race started
+[    439063] server race started
+[    493328] Stopping resource race2
+[    493391] Started map race2
+[    493406] Started resource race2
+[    500016] server race started
+[    542313] Stopping resource race2
+[    542359] Started map race2
+[    542359] Started resource race2
+[    561078] Sending heartbeat to live-internal.fivem.net:30110
+[    589797] Stopping resource race2
+[    589859] Started map race2
+[    589859] Started resource race2
+[    624438] Stopping resource race2
+[    624500] Started map race2
+[    624500] Started resource race2
+[    741109] Sending heartbeat to live-internal.fivem.net:30110
+[    756813] Sending heartbeat to live-internal.fivem.net:30110
+[    763063] Stopping resource race2
+[    763078] Started map race2
+[    763078] Started resource race2
+[    802766] Connecting: eddie5210200
+[    803422] Sending heartbeat to live-internal.fivem.net:30110
+[    983438] Sending heartbeat to live-internal.fivem.net:30110
+[   1163453] Sending heartbeat to live-internal.fivem.net:30110
+[   1251375] Stopping resource race2
+[   1251422] Started map race2
+[   1251422] Started resource race2
+[   1260359] Stopping resource race2
+[   1260422] Started map race2
+[   1260438] Started resource race2
+[   1309281] Stopping resource race2
+[   1309328] Started map race2
+[   1309328] Started resource race2
+[   1334688] Sending heartbeat to live-internal.fivem.net:30110
+[   1514719] Sending heartbeat to live-internal.fivem.net:30110
+[   1694734] Sending heartbeat to live-internal.fivem.net:30110
+[   1874734] Sending heartbeat to live-internal.fivem.net:30110
+[   2054750] Sending heartbeat to live-internal.fivem.net:30110
+[   2194203] Initializing Mono
+[   2194219] Initializing Mono completed
+[   2194234] Hello!
+[   2194266] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[   2194313] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[   2194328] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[   2194328] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[   2194328] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[   2194344] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[   2194344] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[   2194359] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[   2194359] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[   2194375] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[   2194375] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[   2194391] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[   2194391] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[   2194391] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[   2194406] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[   2194406] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[   2194406] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[   2194422] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[   2194422] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[   2194438] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[   2194438] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[   2194453] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[   2194453] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[   2194453] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[   2194469] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[   2194500] Started resource sessionmanager
+[   2194516] Started resource mapmanager
+[   2194531] Started resource chat
+[   2194547] Started resource spawnmanager
+[   2194547] Started gametype Freeroam
+[   2194547] Started resource fivem
+[   2194547] Started resource hardcap
+[   2194563] Started resource rconlog
+[   2194563] Started resource scoreboard
+[   2194578] Started resource playernames
+[   2194594] Started map race2
+[   2194594] Started resource race2
+[   2194594] Authenticating server license key...
+[   2195500] Server license key authentication succeeded. Welcome!
+[   2195563] Sending heartbeat to live-internal.fivem.net:30110
+[   2217766] Connecting: eddie5210200
+[   2218359] Sending heartbeat to live-internal.fivem.net:30110
+[   2398406] Sending heartbeat to live-internal.fivem.net:30110
+[   2578422] Sending heartbeat to live-internal.fivem.net:30110
+[   2758453] Sending heartbeat to live-internal.fivem.net:30110
+[   2938484] Sending heartbeat to live-internal.fivem.net:30110
+[   3118531] Sending heartbeat to live-internal.fivem.net:30110
+[   3298578] Sending heartbeat to live-internal.fivem.net:30110
+[   3478609] Sending heartbeat to live-internal.fivem.net:30110
+[   3658641] Sending heartbeat to live-internal.fivem.net:30110
+[   3838672] Sending heartbeat to live-internal.fivem.net:30110
+[   4018703] Sending heartbeat to live-internal.fivem.net:30110
+[   4198734] Sending heartbeat to live-internal.fivem.net:30110
+[   4378781] Sending heartbeat to live-internal.fivem.net:30110
+[   4558844] Sending heartbeat to live-internal.fivem.net:30110
+[   4738875] Sending heartbeat to live-internal.fivem.net:30110
+[   4918906] Sending heartbeat to live-internal.fivem.net:30110
+[   5098938] Sending heartbeat to live-internal.fivem.net:30110
+[   5278984] Sending heartbeat to live-internal.fivem.net:30110
+[   5459016] Sending heartbeat to live-internal.fivem.net:30110
+[   5639063] Sending heartbeat to live-internal.fivem.net:30110
+[   5819094] Sending heartbeat to live-internal.fivem.net:30110
+[   5999141] Sending heartbeat to live-internal.fivem.net:30110
+[   6179172] Sending heartbeat to live-internal.fivem.net:30110
+[   6359203] Sending heartbeat to live-internal.fivem.net:30110
+[   6539234] Sending heartbeat to live-internal.fivem.net:30110
+[   6719281] Sending heartbeat to live-internal.fivem.net:30110
+[   6899313] Sending heartbeat to live-internal.fivem.net:30110
+[   7079344] Sending heartbeat to live-internal.fivem.net:30110
+[   7259375] Sending heartbeat to live-internal.fivem.net:30110
+[   7313484] Sending heartbeat to live-internal.fivem.net:30110
+[   7493500] Sending heartbeat to live-internal.fivem.net:30110
+[   7673500] Sending heartbeat to live-internal.fivem.net:30110
+[   7853516] Sending heartbeat to live-internal.fivem.net:30110
+[   8033516] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        63] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        78] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[        94] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[        94] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       110] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       110] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       110] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       125] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       141] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       141] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       141] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[       156] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       156] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       156] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       172] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       172] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       172] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       172] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       188] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       188] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       203] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       203] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       235] Started resource sessionmanager
+[       250] Started resource mapmanager
+[       250] Started resource chat
+[       266] Started resource spawnmanager
+[       266] Started gametype Freeroam
+[       266] Started resource fivem
+[       281] Started resource hardcap
+[       281] Started resource rconlog
+[       297] Started resource scoreboard
+[       297] Started resource playernames
+[       313] Started map race2
+[       313] Started resource race2
+[       313] Authenticating server license key...
+[      1438] Server license key authentication succeeded. Welcome!
+[      1485] Sending heartbeat to live-internal.fivem.net:30110
+[     21578] Connecting: eddie5210200
+[     22250] Sending heartbeat to live-internal.fivem.net:30110
+[    100547] Stopping resource race2
+[    100578] Started map race2
+[    100578] Started resource race2
+[    108422] Stopping resource race2
+[    108453] Started map race2
+[    108453] Started resource race2
+[    202281] Sending heartbeat to live-internal.fivem.net:30110
+[    382313] Sending heartbeat to live-internal.fivem.net:30110
+[    562328] Sending heartbeat to live-internal.fivem.net:30110
+[    742360] Sending heartbeat to live-internal.fivem.net:30110
+[    871125] Sending heartbeat to live-internal.fivem.net:30110
+[      9781] Initializing Mono
+[      9906] Initializing Mono completed
+[      9968] Hello!
+[     11375] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[     11390] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[     11515] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[     11578] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[     11609] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[     11625] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[     12828] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[     13546] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[     13640] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[     13640] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[     13671] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[     13687] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[     14406] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[     14437] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[     14453] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[     14484] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[     14515] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[     14562] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[     14578] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[     14609] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[     14625] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[     14640] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[     14656] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[     14687] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[     14703] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[     14890] Started resource sessionmanager
+[     15156] Started resource mapmanager
+[     15203] Started resource chat
+[     15218] Started resource spawnmanager
+[     15234] Started gametype Freeroam
+[     15234] Started resource fivem
+[     15265] Started resource hardcap
+[     15296] Started resource rconlog
+[     15343] Started resource scoreboard
+[     15375] Started resource playernames
+[     15468] Started map race2
+[     15500] Started resource race2
+[     15546] Authenticating server license key...
+[     16625] Server license key authentication succeeded. Welcome!
+[     16671] Sending heartbeat to live-internal.fivem.net:30110
+[     86187] Connecting: eddie5210200
+[     87000] Sending heartbeat to live-internal.fivem.net:30110
+[    267031] Sending heartbeat to live-internal.fivem.net:30110
+[    447046] Sending heartbeat to live-internal.fivem.net:30110
+[    627078] Sending heartbeat to live-internal.fivem.net:30110
+[    807109] Sending heartbeat to live-internal.fivem.net:30110
+[    987140] Sending heartbeat to live-internal.fivem.net:30110
+[   1167156] Sending heartbeat to live-internal.fivem.net:30110
+[   1347171] Sending heartbeat to live-internal.fivem.net:30110
+[   1527203] Sending heartbeat to live-internal.fivem.net:30110
+[   1707234] Sending heartbeat to live-internal.fivem.net:30110
+[   1887250] Sending heartbeat to live-internal.fivem.net:30110
+[   2067281] Sending heartbeat to live-internal.fivem.net:30110
+[   2247296] Sending heartbeat to live-internal.fivem.net:30110
+[   2271906] Sending heartbeat to live-internal.fivem.net:30110
+[   2451953] Sending heartbeat to live-internal.fivem.net:30110
+[   2631968] Sending heartbeat to live-internal.fivem.net:30110
+[   2812015] Sending heartbeat to live-internal.fivem.net:30110
+[   2992062] Sending heartbeat to live-internal.fivem.net:30110
+[   3172078] Sending heartbeat to live-internal.fivem.net:30110
+[   3352125] Sending heartbeat to live-internal.fivem.net:30110
+[   3532187] Sending heartbeat to live-internal.fivem.net:30110
+[   3712218] Sending heartbeat to live-internal.fivem.net:30110
+[   3892281] Sending heartbeat to live-internal.fivem.net:30110
+[   4072312] Sending heartbeat to live-internal.fivem.net:30110
+[   4252359] Sending heartbeat to live-internal.fivem.net:30110
+[   4432406] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        16] Hello!
+[        78] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[        94] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[        94] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[       110] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[       110] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       110] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       125] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       125] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       141] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       141] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       141] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       157] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       157] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       172] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[       172] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       188] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       188] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       188] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       203] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       203] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       266] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       266] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       282] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       282] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       297] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       344] Started resource sessionmanager
+[       375] Started resource mapmanager
+[       375] Started resource chat
+[       391] Started resource spawnmanager
+[       391] Started gametype Freeroam
+[       391] Started resource fivem
+[       391] Started resource hardcap
+[       407] Started resource rconlog
+[       407] Started resource scoreboard
+[       422] Started resource playernames
+[       438] Started map race2
+[       438] Started resource race2
+[       438] Authenticating server license key...
+[      1516] Server license key authentication succeeded. Welcome!
+[      1563] Sending heartbeat to live-internal.fivem.net:30110
+[    181625] Sending heartbeat to live-internal.fivem.net:30110
+[    361688] Sending heartbeat to live-internal.fivem.net:30110
+[    541735] Sending heartbeat to live-internal.fivem.net:30110
+[    721766] Sending heartbeat to live-internal.fivem.net:30110
+[    901766] Sending heartbeat to live-internal.fivem.net:30110
+[   1081813] Sending heartbeat to live-internal.fivem.net:30110
+[   1261813] Sending heartbeat to live-internal.fivem.net:30110
+[   1441860] Sending heartbeat to live-internal.fivem.net:30110
+[   1621875] Sending heartbeat to live-internal.fivem.net:30110
+[   1801875] Sending heartbeat to live-internal.fivem.net:30110
+[   1945297] Connecting: eddie5210200
+[   1946157] Sending heartbeat to live-internal.fivem.net:30110
+[   2126172] Sending heartbeat to live-internal.fivem.net:30110
+[   2296235] Stopping resource race2
+[   2296266] Started map race2
+[   2296282] Started resource race2
+[   2306203] Sending heartbeat to live-internal.fivem.net:30110
+[   2326610] Stopping resource race2
+[   2326657] Started map race2
+[   2326657] Started resource race2
+[   2374344] Stopping resource race2
+[   2374407] Started map race2
+[   2374407] Started resource race2
+[   2408547] Stopping resource race2
+[   2408594] Started map race2
+[   2408594] Started resource race2
+[   2431844] Stopping resource race2
+[   2431891] Started map race2
+[   2431907] Started resource race2
+[   2449407] Stopping resource race2
+[   2449469] Started map race2
+[   2449469] Started resource race2
+[   2467125] Stopping resource race2
+[   2467172] Started map race2
+[   2467172] Started resource race2
+[   2486250] Sending heartbeat to live-internal.fivem.net:30110
+[   2541641] Stopping resource race2
+[   2541688] Started map race2
+[   2541703] Started resource race2
+[   2648719] Stopping resource race2
+[   2648750] Started map race2
+[   2648750] Started resource race2
+[   2666282] Sending heartbeat to live-internal.fivem.net:30110
+[   2698578] Stopping resource race2
+[   2698641] Started map race2
+[   2698672] Started resource race2
+[   2713688] server race started
+[   2732891] Stopping resource race2
+[   2732953] Started map race2
+[   2732969] Started resource race2
+[   2741203] server race started
+[   2846328] Sending heartbeat to live-internal.fivem.net:30110
+[   2993875] Stopping resource race2
+[   2993938] Started map race2
+[   2993953] Started resource race2
+[   3022344] Stopping resource race2
+[   3022407] Started map race2
+[   3022407] Started resource race2
+[   3026344] Sending heartbeat to live-internal.fivem.net:30110
+[   3158141] Stopping resource race2
+[   3158188] Started map race2
+[   3158188] Started resource race2
+[   3206375] Sending heartbeat to live-internal.fivem.net:30110
+[   3259094] Stopping resource race2
+[   3259141] Started map race2
+[   3259157] Started resource race2
+[   3278250] Stopping resource race2
+[   3278297] Started map race2
+[   3278313] Started resource race2
+[   3310594] Stopping resource race2
+[   3310657] Started map race2
+[   3310672] Started resource race2
+[   3381110] Stopping resource race2
+[   3381157] Started map race2
+[   3381157] Started resource race2
+[   3386407] Sending heartbeat to live-internal.fivem.net:30110
+[   3433891] Stopping resource race2
+[   3433938] Started map race2
+[   3433953] Started resource race2
+[   3566438] Sending heartbeat to live-internal.fivem.net:30110
+[   3625375] Stopping resource race2
+[   3625422] Started map race2
+[   3625422] Started resource race2
+[   3746469] Sending heartbeat to live-internal.fivem.net:30110
+[   3926485] Sending heartbeat to live-internal.fivem.net:30110
+[   4019578] Stopping resource race2
+[   4019625] Started map race2
+[   4019625] Started resource race2
+[   4034250] Stopping resource race2
+[   4034297] Started map race2
+[   4034297] Started resource race2
+[   4072188] Stopping resource race2
+[   4072219] Started map race2
+[   4072235] Started resource race2
+[   4106516] Sending heartbeat to live-internal.fivem.net:30110
+[   4108110] Stopping resource race2
+[   4108157] Started map race2
+[   4108157] Started resource race2
+[   4110907] server race started
+[   4110953] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4110953] stack traceback:
+[   4110953] 	[C]: in function 'error'
+[   4110953] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4110953] 	server/server.lua:9: in function <server/server.lua:4>
+[   4142578] Stopping resource race2
+[   4142641] Started map race2
+[   4142641] Started resource race2
+[   4160750] Stopping resource race2
+[   4160782] Started map race2
+[   4160782] Started resource race2
+[   4163469] server race started
+[   4163500] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4163500] stack traceback:
+[   4163500] 	[C]: in function 'error'
+[   4163500] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4163500] 	server/server.lua:9: in function <server/server.lua:4>
+[   4268969] Stopping resource race2
+[   4269016] Started map race2
+[   4269016] Started resource race2
+[   4273047] server race started
+[   4273078] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4273078] stack traceback:
+[   4273078] 	[C]: in function 'error'
+[   4273078] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4273094] 	server/server.lua:9: in function <server/server.lua:4>
+[   4286547] Sending heartbeat to live-internal.fivem.net:30110
+[   4300688] Stopping resource race2
+[   4300735] Started map race2
+[   4300735] Started resource race2
+[   4345860] Stopping resource race2
+[   4345891] Started map race2
+[   4345891] Started resource race2
+[   4348500] server race started
+[   4348563] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4348563] stack traceback:
+[   4348563] 	[C]: in function 'error'
+[   4348563] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4348563] 	server/server.lua:9: in function <server/server.lua:4>
+[   4402407] Stopping resource race2
+[   4402469] Started map race2
+[   4402641] Started resource race2
+[   4402641] hitch warning: frame time of 263 milliseconds
+[   4406907] server race started
+[   4407719] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4407750] stack traceback:
+[   4407750] 	[C]: in function 'error'
+[   4407750] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4407750] 	server/server.lua:9: in function <server/server.lua:4>
+[   4407813] hitch warning: frame time of 842 milliseconds
+[   4418532] Stopping resource race2
+[   4418594] Started map race2
+[   4418610] Started resource race2
+[   4420875] server race started
+[   4420953] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4420953] stack traceback:
+[   4420953] 	[C]: in function 'error'
+[   4420953] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4420953] 	server/server.lua:9: in function <server/server.lua:4>
+[   4436453] Stopping resource race2
+[   4436500] Started map race2
+[   4436516] Started resource race2
+[   4439610] server race started
+[   4439688] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4439688] stack traceback:
+[   4439688] 	[C]: in function 'error'
+[   4439688] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4439688] 	server/server.lua:9: in function <server/server.lua:4>
+[   4466594] Sending heartbeat to live-internal.fivem.net:30110
+[   4470875] Stopping resource race2
+[   4470922] Started map race2
+[   4470938] Started resource race2
+[   4548766] Stopping resource race2
+[   4548797] Started map race2
+[   4548813] Started resource race2
+[   4553438] server race started
+[   4553469] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4553485] stack traceback:
+[   4553485] 	[C]: in function 'error'
+[   4553485] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4553485] 	server/server.lua:9: in function <server/server.lua:4>
+[   4560719] hitch warning: frame time of 237 milliseconds
+[   4560735] hitch warning: frame time of 345 milliseconds
+[   4590063] Stopping resource race2
+[   4590110] Started map race2
+[   4590110] Started resource race2
+[   4593313] server race started
+[   4593360] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4593360] stack traceback:
+[   4593375] 	[C]: in function 'error'
+[   4593375] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4593375] 	server/server.lua:9: in function <server/server.lua:4>
+[   4610375] Stopping resource race2
+[   4610422] Started map race2
+[   4610422] Started resource race2
+[   4645407] Stopping resource race2
+[   4645469] Started map race2
+[   4645485] Started resource race2
+[   4646610] Sending heartbeat to live-internal.fivem.net:30110
+[   4660110] server race started
+[   4660157] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4660157] stack traceback:
+[   4660157] 	[C]: in function 'error'
+[   4660157] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4660172] 	server/server.lua:9: in function <server/server.lua:4>
+[   4673719] Stopping resource race2
+[   4673750] Started map race2
+[   4673766] Started resource race2
+[   4676516] server race started
+[   4676578] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4676578] stack traceback:
+[   4676578] 	[C]: in function 'error'
+[   4676578] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4676594] 	server/server.lua:9: in function <server/server.lua:4>
+[   4754750] Stopping resource race2
+[   4754797] Started map race2
+[   4754797] Started resource race2
+[   4758375] server race started
+[   4758422] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4758422] stack traceback:
+[   4758422] 	[C]: in function 'error'
+[   4758422] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4758422] 	server/server.lua:9: in function <server/server.lua:4>
+[   4826641] Sending heartbeat to live-internal.fivem.net:30110
+[   4853657] Stopping resource race2
+[   4853703] Started map race2
+[   4853703] Started resource race2
+[   4856047] server race started
+[   4856078] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4856078] stack traceback:
+[   4856078] 	[C]: in function 'error'
+[   4856078] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4856078] 	server/server.lua:9: in function <server/server.lua:4>
+[   4915750] Stopping resource race2
+[   4915797] Started map race2
+[   4915797] Started resource race2
+[   4917953] server race started
+[   4917985] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4917985] stack traceback:
+[   4917985] 	[C]: in function 'error'
+[   4917985] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4918000] 	server/server.lua:9: in function <server/server.lua:4>
+[   4939422] Stopping resource race2
+[   4939469] Started map race2
+[   4939469] Started resource race2
+[   4941250] server race started
+[   4941282] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4941282] stack traceback:
+[   4941282] 	[C]: in function 'error'
+[   4941297] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4941297] 	server/server.lua:9: in function <server/server.lua:4>
+[   4961953] Stopping resource race2
+[   4962000] Started map race2
+[   4962000] Started resource race2
+[   4963969] server race started
+[   4964032] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   4964032] stack traceback:
+[   4964032] 	[C]: in function 'error'
+[   4964032] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   4964032] 	server/server.lua:9: in function <server/server.lua:4>
+[   5006672] Sending heartbeat to live-internal.fivem.net:30110
+[   5067703] Stopping resource race2
+[   5067750] Started map race2
+[   5067750] Started resource race2
+[   5070766] server race started
+[   5070797] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   5070813] stack traceback:
+[   5070813] 	[C]: in function 'error'
+[   5070813] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   5070813] 	server/server.lua:9: in function <server/server.lua:4>
+[   5118453] Stopping resource race2
+[   5118500] Started map race2
+[   5118500] Started resource race2
+[   5120985] server race started
+[   5121016] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   5121016] stack traceback:
+[   5121016] 	[C]: in function 'error'
+[   5121016] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   5121016] 	server/server.lua:9: in function <server/server.lua:4>
+[   5186688] Sending heartbeat to live-internal.fivem.net:30110
+[   5210266] Stopping resource race2
+[   5210297] Started map race2
+[   5210313] Started resource race2
+[   5212891] server race started
+[   5212938] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   5212938] stack traceback:
+[   5212953] 	[C]: in function 'error'
+[   5212953] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   5212953] 	server/server.lua:9: in function <server/server.lua:4>
+[   5240297] server race started
+[   5240344] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   5240344] stack traceback:
+[   5240344] 	[C]: in function 'error'
+[   5240344] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   5240344] 	server/server.lua:9: in function <server/server.lua:4>
+[   5265813] Stopping resource race2
+[   5265860] Started map race2
+[   5265860] Started resource race2
+[   5268157] server race started
+[   5268188] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   5268188] stack traceback:
+[   5268188] 	[C]: in function 'error'
+[   5268188] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   5268188] 	server/server.lua:9: in function <server/server.lua:4>
+[   5290188] Stopping resource race2
+[   5290250] Started map race2
+[   5290250] Started resource race2
+[   5351547] Stopping resource race2
+[   5351610] Started map race2
+[   5351610] Started resource race2
+[   5356719] server race started
+[   5356750] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   5356750] stack traceback:
+[   5356750] 	[C]: in function 'error'
+[   5356750] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   5356750] 	server/server.lua:9: in function <server/server.lua:4>
+[   5366719] Sending heartbeat to live-internal.fivem.net:30110
+[   5381250] Stopping resource race2
+[   5381313] Started map race2
+[   5381313] Started resource race2
+[   5383813] server race started
+[   5383860] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   5383860] stack traceback:
+[   5383860] 	[C]: in function 'error'
+[   5383860] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   5383860] 	server/server.lua:9: in function <server/server.lua:4>
+[   5429969] Stopping resource race2
+[   5430032] Started map race2
+[   5430032] Started resource race2
+[   5431735] eddie5210200: 1
+[   5433328] eddie5210200: 1
+[   5435485] server race started
+[   5435516] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   5435516] stack traceback:
+[   5435516] 	[C]: in function 'error'
+[   5435516] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   5435516] 	server/server.lua:9: in function <server/server.lua:4>
+[   5500688] ^3Couldn't find resource race2\.^7
+[   5501672] ^3Couldn't find resource race2\.^7
+[   5503469] Stopping resource race2
+[   5503532] Started map race2
+[   5503532] Started resource race2
+[   5505844] server race started
+[   5505875] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   5505875] stack traceback:
+[   5505875] 	[C]: in function 'error'
+[   5505875] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   5505875] 	server/server.lua:9: in function <server/server.lua:4>
+[   5522188] Stopping resource race2
+[   5522219] Started map race2
+[   5522235] Started resource race2
+[   5524594] server race started
+[   5524625] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   5524625] stack traceback:
+[   5524625] 	[C]: in function 'error'
+[   5524625] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   5524625] 	server/server.lua:9: in function <server/server.lua:4>
+[   5537766] Stopping resource race2
+[   5537797] Started map race2
+[   5537813] Started resource race2
+[   5540250] server race started
+[   5540282] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   5540282] stack traceback:
+[   5540282] 	[C]: in function 'error'
+[   5540282] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   5540282] 	server/server.lua:9: in function <server/server.lua:4>
+[   5546750] Sending heartbeat to live-internal.fivem.net:30110
+[   5561844] Stopping resource race2
+[   5561891] Started map race2
+[   5561891] Started resource race2
+[   5564000] server race started
+[   5564032] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   5564047] stack traceback:
+[   5564047] 	[C]: in function 'error'
+[   5564047] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   5564047] 	server/server.lua:9: in function <server/server.lua:4>
+[   5658063] Stopping resource race2
+[   5658078] Started map race2
+[   5658094] Started resource race2
+[   5693375] Stopping resource race2
+[   5693438] Started map race2
+[   5693453] Started resource race2
+[   5726782] Sending heartbeat to live-internal.fivem.net:30110
+[   5754469] Stopping resource race2
+[   5754532] Started map race2
+[   5754532] Started resource race2
+[   5775532] Stopping resource race2
+[   5775594] Started map race2
+[   5775594] Started resource race2
+[   5797750] Stopping resource race2
+[   5797813] Started map race2
+[   5797813] Started resource race2
+[   5823625] Stopping resource race2
+[   5823703] Started map race2
+[   5823703] Started resource race2
+[   5877875] Stopping resource race2
+[   5877938] Started map race2
+[   5877953] Started resource race2
+[   5894266] Stopping resource race2
+[   5894344] Started map race2
+[   5894375] Started resource race2
+[   5894391] hitch warning: frame time of 156 milliseconds
+[   5906907] Sending heartbeat to live-internal.fivem.net:30110
+[   6032953] Stopping resource race2
+[   6033016] Started map race2
+[   6033016] Started resource race2
+[   6083313] Stopping resource race2
+[   6083375] Started map race2
+[   6083375] Started resource race2
+[   6086938] Sending heartbeat to live-internal.fivem.net:30110
+[   6104907] Stopping resource race2
+[   6104985] Started map race2
+[   6104985] Started resource race2
+[   6257219] Stopping resource race2
+[   6257266] Started map race2
+[   6257282] Started resource race2
+[   6266985] Sending heartbeat to live-internal.fivem.net:30110
+[   6280860] Stopping resource race2
+[   6280891] Started map race2
+[   6280891] Started resource race2
+[   6293578] server race started
+[   6293625] Error resuming coroutine: citizen:/scripting/lua/scheduler.lua:655: No such export execute in resource ghmattimysql
+[   6293625] stack traceback:
+[   6293641] 	[C]: in function 'error'
+[   6293641] 	citizen:/scripting/lua/scheduler.lua:655: in metamethod '__index'
+[   6293641] 	server/server.lua:9: in function <server/server.lua:4>
+[   6447000] Sending heartbeat to live-internal.fivem.net:30110
+[   6627032] Sending heartbeat to live-internal.fivem.net:30110
+[   6655547] Stopping resource race2
+[   6655594] Started map race2
+[   6655594] Started resource race2
+[   6660094] race open
+[   6807063] Sending heartbeat to live-internal.fivem.net:30110
+[   6987094] Sending heartbeat to live-internal.fivem.net:30110
+[   7167125] Sending heartbeat to live-internal.fivem.net:30110
+[   7213547] Stopping resource race2
+[   7213594] Started map race2
+[   7213610] Started resource race2
+[   7216532] race open
+[   7269828] Stopping resource race2
+[   7269891] Started map race2
+[   7269907] Started resource race2
+[   7273188] race open
+[   7273235] race open
+[   7313703] Stopping resource race2
+[   7313750] Started map race2
+[   7313766] Started resource race2
+[   7316266] race open
+[   7316297] race open
+[   7347157] Sending heartbeat to live-internal.fivem.net:30110
+[   7498750] Stopping resource race2
+[   7498782] Started map race2
+[   7498797] Started resource race2
+[   7501078] race open
+[   7501125] race open
+[   7527203] Sending heartbeat to live-internal.fivem.net:30110
+[   7707219] Sending heartbeat to live-internal.fivem.net:30110
+[   7731219] race open
+[   7731266] race open
+[   7738094] Stopping resource race2
+[   7738141] Started map race2
+[   7738157] Started resource race2
+[   7740719] race open
+[   7887235] Sending heartbeat to live-internal.fivem.net:30110
+[   8067266] Sending heartbeat to live-internal.fivem.net:30110
+[   8097235] Stopping resource race2
+[   8097297] Started map race2
+[   8097313] Started resource race2
+[   8100016] race open
+[   8100063] Error resuming coroutine: server/server.lua:15: attempt to index a nil value (global 'waypoints')
+[   8100063] stack traceback:
+[   8100063] 	server/server.lua:15: in function <server/server.lua:6>
+[   8167078] Stopping resource race2
+[   8167110] Started map race2
+[   8167110] Started resource race2
+[   8169172] test
+[   8169219] race open
+[   8240625] Stopping resource race2
+[   8240688] Started map race2
+[   8240688] Started resource race2
+[   8243688] test
+[   8243735] race open
+[   8247282] Sending heartbeat to live-internal.fivem.net:30110
+[   8280391] Stopping resource race2
+[   8280438] Started map race2
+[   8280438] Started resource race2
+[   8284078] test
+[   8284141] race open
+[   8347157] Stopping resource race2
+[   8347203] Started map race2
+[   8347203] Started resource race2
+[   8350844] test
+[   8350891] race open
+[   8403094] Stopping resource race2
+[   8403157] Started map race2
+[   8403157] Started resource race2
+[   8407860] test
+[   8407907] race open
+[   8427344] Sending heartbeat to live-internal.fivem.net:30110
+[   8607391] Sending heartbeat to live-internal.fivem.net:30110
+[   8787407] Sending heartbeat to live-internal.fivem.net:30110
+[   8967438] Sending heartbeat to live-internal.fivem.net:30110
+[   9147469] Sending heartbeat to live-internal.fivem.net:30110
+[   9327532] Sending heartbeat to live-internal.fivem.net:30110
+[   9485219] Stopping resource race2
+[   9485282] Started map race2
+[   9485282] Started resource race2
+[   9497203] test
+[   9507563] Sending heartbeat to live-internal.fivem.net:30110
+[   9652094] Sending heartbeat to live-internal.fivem.net:30110
+[   9680157] Connecting: eddie5210200
+[   9681141] Sending heartbeat to live-internal.fivem.net:30110
+[   9822110] test
+[   9822172] race open
+[   9843172] test
+[   9843219] race open
+[   9851672] test
+[   9861172] Sending heartbeat to live-internal.fivem.net:30110
+[   9875625] test
+[   9875703] race open
+[   9961672] Stopping resource race2
+[   9961750] Started map race2
+[   9961750] Started resource race2
+[   9961766] hitch warning: frame time of 679 milliseconds
+[   9965938] test
+[   9965985] race open
+[  10041235] Sending heartbeat to live-internal.fivem.net:30110
+[  10044610] Stopping resource race2
+[  10044672] Started map race2
+[  10044688] Started resource race2
+[  10048438] test
+[  10048438] test
+[  10048485] race open
+[  10127547] test
+[  10127547] test
+[  10127594] race open
+[  10139797] test
+[  10145094] test
+[  10145110] test
+[  10145141] race open
+[  10159750] Stopping resource race2
+[  10159828] Started map race2
+[  10159828] Started resource race2
+[  10166094] test
+[  10166094] test
+[  10166157] race open
+[  10172047] test
+[  10172047] test
+[  10172094] race open
+[  10221250] Sending heartbeat to live-internal.fivem.net:30110
+[  10243297] Stopping resource race2
+[  10243328] Started map race2
+[  10243328] Started resource race2
+[  10249547] test
+[  10249563] test
+[  10249610] race open
+[  10268266] test
+[  10268266] test
+[  10268313] race open
+[  10341969] Stopping resource race2
+[  10342032] Started map race2
+[  10342032] Started resource race2
+[  10346782] test
+[  10346782] test
+[  10346813] race open
+[  10401297] Sending heartbeat to live-internal.fivem.net:30110
+[  10555594] Stopping resource race2
+[  10555672] Started map race2
+[  10555688] Started resource race2
+[  10560047] test
+[  10560047] test
+[  10560094] race open
+[  10581313] Sending heartbeat to live-internal.fivem.net:30110
+[  10638407] ^3Couldn't find resource race2\.^7
+[  10640641] Stopping resource race2
+[  10640735] Started map race2
+[  10640735] Started resource race2
+[  10640750] hitch warning: frame time of 476 milliseconds
+[  10643016] test
+[  10643016] test
+[  10643063] race open
+[  10643078] InvokeNative: execution failed: Argument at index 1 was null.
+[  10643141] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[  10643141] stack traceback:
+[  10643141] 	[C]: in upvalue '_in'
+[  10643141] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[  10643141] 	(...tail calls...)
+[  10643141] 	server/server.lua:19: in function <server/server.lua:10>
+[  10657922] test
+[  10665766] test
+[  10665766] test
+[  10665813] race open
+[  10665828] InvokeNative: execution failed: Argument at index 1 was null.
+[  10665875] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[  10665875] stack traceback:
+[  10665875] 	[C]: in upvalue '_in'
+[  10665875] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[  10665875] 	(...tail calls...)
+[  10665875] 	server/server.lua:19: in function <server/server.lua:10>
+[  10692438] ^3Couldn't find resource race2\.^7
+[  10693782] Stopping resource race2
+[  10693844] Started map race2
+[  10693844] Started resource race2
+[  10696875] test
+[  10696875] test
+[  10696922] race open
+[  10696922] InvokeNative: execution failed: Argument at index 1 was null.
+[  10696969] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[  10696969] stack traceback:
+[  10696969] 	[C]: in upvalue '_in'
+[  10696969] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[  10696969] 	(...tail calls...)
+[  10696969] 	server/server.lua:19: in function <server/server.lua:10>
+[  10761328] Sending heartbeat to live-internal.fivem.net:30110
+[  10795735] test
+[  10795735] test
+[  10795782] race open
+[  10795797] InvokeNative: execution failed: Argument at index 1 was null.
+[  10795907] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[  10795907] stack traceback:
+[  10795922] 	[C]: in upvalue '_in'
+[  10795922] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[  10795922] 	(...tail calls...)
+[  10795922] 	server/server.lua:19: in function <server/server.lua:10>
+[  10923125] Stopping resource race2
+[  10923172] Started map race2
+[  10923172] Started resource race2
+[  10928360] test
+[  10928407] race open
+[  10928422] test
+[  10928422] race open
+[  10928438] InvokeNative: execution failed: Argument at index 1 was null.
+[  10928547] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[  10928547] stack traceback:
+[  10928547] 	[C]: in upvalue '_in'
+[  10928547] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[  10928547] 	(...tail calls...)
+[  10928563] 	server/server.lua:20: in function <server/server.lua:11>
+[  10941360] Sending heartbeat to live-internal.fivem.net:30110
+[  11121391] Sending heartbeat to live-internal.fivem.net:30110
+[  11301422] Sending heartbeat to live-internal.fivem.net:30110
+[  11481438] Sending heartbeat to live-internal.fivem.net:30110
+[  11548797] Sending heartbeat to live-internal.fivem.net:30110
+[  11728797] Sending heartbeat to live-internal.fivem.net:30110
+[  11908844] Sending heartbeat to live-internal.fivem.net:30110
+[   4286750] Initializing Mono
+[   4286765] Initializing Mono completed
+[   4286765] Hello!
+[   4286828] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[   4286875] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[   4286875] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[   4286875] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[   4286890] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[   4286890] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[   4286906] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[   4286906] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[   4286921] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[   4286921] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[   4286937] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[   4286937] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[   4286953] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[   4286953] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[   4286984] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[   4286984] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[   4287000] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[   4287000] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[   4287015] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[   4287015] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[   4287031] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[   4287031] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[   4287046] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[   4287046] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[   4287062] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[   4287109] Started resource sessionmanager
+[   4287140] Started resource mapmanager
+[   4287156] Started resource chat
+[   4287171] Started resource spawnmanager
+[   4287171] Started gametype Freeroam
+[   4287171] Started resource fivem
+[   4287203] Started resource hardcap
+[   4287218] Started resource rconlog
+[   4287218] Started resource scoreboard
+[   4287234] Started resource playernames
+[   4287250] Started map race2
+[   4287250] Started resource race2
+[   4287265] Authenticating server license key...
+[   4288250] Server license key authentication succeeded. Welcome!
+[   4288296] Sending heartbeat to live-internal.fivem.net:30110
+[   4300390] Connecting: eddie5210200
+[   4301156] Sending heartbeat to live-internal.fivem.net:30110
+[   4457984] test
+[   4457984] race open
+[   4457984] test
+[   4458031] race open
+[   4458031] InvokeNative: execution failed: Argument at index 1 was null.
+[   4458109] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[   4458109] stack traceback:
+[   4458109] 	[C]: in upvalue '_in'
+[   4458109] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[   4458109] 	(...tail calls...)
+[   4458109] 	server/server.lua:20: in function <server/server.lua:11>
+[   4481187] Sending heartbeat to live-internal.fivem.net:30110
+[   4661203] Sending heartbeat to live-internal.fivem.net:30110
+[   4841234] Sending heartbeat to live-internal.fivem.net:30110
+[   5021250] Sending heartbeat to live-internal.fivem.net:30110
+[   5091328] Stopping resource race2
+[   5091390] Started map race2
+[   5091406] Started resource race2
+[   5112750] Stopping resource race2
+[   5112781] Started map race2
+[   5112796] Started resource race2
+[   5120812] test
+[   5178390] Stopping resource race2
+[   5178437] Started map race2
+[   5178437] Started resource race2
+[   5183062] test
+[   5201265] Sending heartbeat to live-internal.fivem.net:30110
+[   5208140] Stopping resource race2
+[   5208156] Failed to load script server/server.lua.
+[   5208171] Started map race2
+[   5208187] Started resource race2
+[   5278531] Stopping resource race2
+[   5278562] Failed to load script server/server.lua.
+[   5278578] Started map race2
+[   5278578] Started resource race2
+[   5298234] Stopping resource race2
+[   5298265] Failed to load script server/server.lua.
+[   5298296] Started map race2
+[   5298296] Started resource race2
+[   5328515] Stopping resource race2
+[   5328531] Failed to load script server/server.lua.
+[   5328531] Started map race2
+[   5328531] Started resource race2
+[   5381296] Sending heartbeat to live-internal.fivem.net:30110
+[   5561328] Sending heartbeat to live-internal.fivem.net:30110
+[   5591750] Stopping resource race2
+[   5591765] Failed to load script server/server.lua.
+[   5591781] Started map race2
+[   5591781] Started resource race2
+[   5665609] Stopping resource race2
+[   5665656] Started map race2
+[   5665671] Started resource race2
+[   5670656] test
+[   5700265] Stopping resource race2
+[   5700312] Started map race2
+[   5700312] Started resource race2
+[   5706000] test
+[   5706000] race open
+[   5706015] test
+[   5706062] race open
+[   5706062] InvokeNative: execution failed: Argument at index 1 was null.
+[   5706093] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[   5706109] stack traceback:
+[   5706109] 	[C]: in upvalue '_in'
+[   5706109] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[   5706109] 	(...tail calls...)
+[   5706109] 	server/server.lua:20: in function <server/server.lua:11>
+[   5713812] Stopping resource race2
+[   5713828] Started map race2
+[   5713843] Started resource race2
+[   5717359] test
+[   5717406] race open
+[   5717406] test
+[   5717453] race open
+[   5717453] InvokeNative: execution failed: Argument at index 1 was null.
+[   5717500] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[   5717500] stack traceback:
+[   5717500] 	[C]: in upvalue '_in'
+[   5717500] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[   5717500] 	(...tail calls...)
+[   5717500] 	server/server.lua:20: in function <server/server.lua:11>
+[   5741359] Sending heartbeat to live-internal.fivem.net:30110
+[   5779375] Initializing Mono
+[   5779406] Initializing Mono completed
+[   5779421] Hello!
+[   5779531] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[   5779640] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[   5779671] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[   5779687] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[   5779718] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[   5779734] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[   5779750] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[   5779765] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[   5779781] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[   5779796] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[   5779812] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[   5779843] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[   5779859] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[   5779890] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[   5779921] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[   5779937] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[   5779953] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[   5779968] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[   5779984] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[   5780031] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[   5780046] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[   5780078] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[   5780093] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[   5780140] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[   5780140] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[   5780343] Started resource sessionmanager
+[   5780375] Started resource mapmanager
+[   5780437] Started resource chat
+[   5780468] Started resource spawnmanager
+[   5780484] Started gametype Freeroam
+[   5780484] Started resource fivem
+[   5780515] Started resource hardcap
+[   5780562] Started resource rconlog
+[   5780593] Started resource scoreboard
+[   5780625] Started resource playernames
+[   5780687] Started map race2
+[   5780703] Started resource race2
+[   5780968] Authenticating server license key...
+[   5782250] Server license key authentication succeeded. Welcome!
+[   5782312] Sending heartbeat to live-internal.fivem.net:30110
+[   5815453] Connecting: eddie5210200
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        31] Hello!
+[        78] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       203] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[       219] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[       375] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[       516] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       531] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       547] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       563] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       563] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       578] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       578] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       610] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       610] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       625] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[       641] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       656] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       656] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       672] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       735] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[      1016] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[      1703] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[      1860] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[      1891] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[      1906] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[      1906] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[      1985] Started resource sessionmanager
+[      2000] Started resource mapmanager
+[      2031] Started resource chat
+[      2031] Started resource spawnmanager
+[      2047] Started gametype Freeroam
+[      2063] Started resource fivem
+[      2078] Started resource hardcap
+[      2078] Started resource rconlog
+[      2094] Started resource scoreboard
+[      2110] Started resource playernames
+[      2125] Started map race2
+[      2125] Started resource race2
+[      2141] Authenticating server license key...
+[      3156] Server license key authentication succeeded. Welcome!
+[      3219] Sending heartbeat to live-internal.fivem.net:30110
+[     82297] Connecting: eddie5210200
+[     83031] Sending heartbeat to live-internal.fivem.net:30110
+[    229610] test
+[    263094] Sending heartbeat to live-internal.fivem.net:30110
+[    284125] test
+[    284125] race open
+[    284125] test
+[    284172] race open
+[    284172] InvokeNative: execution failed: Argument at index 1 was null.
+[    284219] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[    284219] stack traceback:
+[    284219] 	[C]: in upvalue '_in'
+[    284219] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[    284219] 	(...tail calls...)
+[    284219] 	server/server.lua:20: in function <server/server.lua:11>
+[    329281] Stopping resource race2
+[    329297] Started map race2
+[    329297] Started resource race2
+[    333078] test
+[    333078] race open
+[    333078] test
+[    333125] race open
+[    333141] InvokeNative: execution failed: Argument at index 1 was null.
+[    333172] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[    333172] stack traceback:
+[    333172] 	[C]: in upvalue '_in'
+[    333172] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[    333172] 	(...tail calls...)
+[    333172] 	server/server.lua:20: in function <server/server.lua:11>
+[    363578] test
+[    363594] race open
+[    363594] test
+[    363641] race open
+[    363641] InvokeNative: execution failed: Argument at index 1 was null.
+[    363688] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[    363688] stack traceback:
+[    363688] 	[C]: in upvalue '_in'
+[    363688] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[    363688] 	(...tail calls...)
+[    363688] 	server/server.lua:20: in function <server/server.lua:11>
+[    405485] Stopping resource race2
+[    405516] Started map race2
+[    405531] Started resource race2
+[    411203] Stopping resource race2
+[    411266] Started map race2
+[    411281] Started resource race2
+[    416391] test
+[    416391] race open
+[    416391] test
+[    416438] InvokeNative: execution failed: Argument at index 1 was null.
+[    416516] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[    416516] stack traceback:
+[    416516] 	[C]: in upvalue '_in'
+[    416516] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[    416516] 	(...tail calls...)
+[    416516] 	server/server.lua:19: in function <server/server.lua:11>
+[    443156] Sending heartbeat to live-internal.fivem.net:30110
+[    446141] Stopping resource race2
+[    446188] Started map race2
+[    446188] Started resource race2
+[    450250] Stopping resource race2
+[    450266] Started map race2
+[    450266] Started resource race2
+[    459594] test
+[    459641] race open
+[    459656] test
+[    459703] nil	1000	3000
+[    459703] InvokeNative: execution failed: Argument at index 1 was null.
+[    459750] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[    459750] stack traceback:
+[    459750] 	[C]: in upvalue '_in'
+[    459750] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[    459750] 	(...tail calls...)
+[    459750] 	server/server.lua:20: in function <server/server.lua:11>
+[    492047] Stopping resource race2
+[    492141] Started map race2
+[    492172] Started resource race2
+[    492219] hitch warning: frame time of 150 milliseconds
+[    494594] Stopping resource race2
+[    494625] Started map race2
+[    494625] Started resource race2
+[    499250] test
+[    499250] race open
+[    499250] test
+[    499297] nil	1000	3000
+[    499313] InvokeNative: execution failed: Argument at index 1 was null.
+[    499360] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[    499360] stack traceback:
+[    499360] 	[C]: in upvalue '_in'
+[    499360] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[    499360] 	(...tail calls...)
+[    499360] 	server/server.lua:20: in function <server/server.lua:11>
+[    623156] Sending heartbeat to live-internal.fivem.net:30110
+[    660047] Stopping resource race2
+[    660110] Started map race2
+[    660110] Started resource race2
+[    664719] Stopping resource race2
+[    664735] Started map race2
+[    664735] Started resource race2
+[    668516] nil	1000	3000
+[    668563] nil	1000	3000
+[    668578] InvokeNative: execution failed: Argument at index 1 was null.
+[    668641] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[    668641] stack traceback:
+[    668641] 	[C]: in upvalue '_in'
+[    668641] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[    668641] 	(...tail calls...)
+[    668641] 	server/server.lua:20: in function <server/server.lua:11>
+[    690688] Stopping resource race2
+[    690766] Started map race2
+[    690766] Started resource race2
+[    697063] Stopping resource race2
+[    697094] Started map race2
+[    697094] Started resource race2
+[    704625] nil	1000	3000
+[    704672] nil	1000	3000
+[    704672] InvokeNative: execution failed: Argument at index 1 was null.
+[    704719] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[    704719] stack traceback:
+[    704719] 	[C]: in upvalue '_in'
+[    704719] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[    704719] 	(...tail calls...)
+[    704719] 	server/server.lua:20: in function <server/server.lua:11>
+[    731078] Stopping resource race2
+[    731110] Started map race2
+[    731110] Started resource race2
+[    733719] Stopping resource race2
+[    733750] Started map race2
+[    733750] Started resource race2
+[    739485] nil	1000	1
+[    739531] nil	1000	3000
+[    739531] InvokeNative: execution failed: Argument at index 1 was null.
+[    739578] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[    739578] stack traceback:
+[    739578] 	[C]: in upvalue '_in'
+[    739578] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[    739578] 	(...tail calls...)
+[    739578] 	server/server.lua:20: in function <server/server.lua:11>
+[    742328] nil	1000	1
+[    742375] nil	1000	3000
+[    742391] InvokeNative: execution failed: Argument at index 1 was null.
+[    742453] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[    742453] stack traceback:
+[    742453] 	[C]: in upvalue '_in'
+[    742453] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[    742453] 	(...tail calls...)
+[    742453] 	server/server.lua:20: in function <server/server.lua:11>
+[    764344] Stopping resource race2
+[    764391] Started map race2
+[    764406] Started resource race2
+[    768078] Stopping resource race2
+[    768110] Started map race2
+[    768125] Started resource race2
+[    770625] table: 00000266D218F710	1000	1
+[    770688] InvokeNative: execution failed: Argument at index 1 was null.
+[    770735] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[    770735] stack traceback:
+[    770735] 	[C]: in upvalue '_in'
+[    770735] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[    770735] 	(...tail calls...)
+[    770735] 	server/server.lua:19: in function <server/server.lua:11>
+[    803188] Sending heartbeat to live-internal.fivem.net:30110
+[    818610] Stopping resource race2
+[    818672] Started map race2
+[    818688] Started resource race2
+[    829985] table: 00000266D218E9D0	1000	1
+[    830047] InvokeNative: execution failed: Argument at index 1 was null.
+[    830141] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[    830141] stack traceback:
+[    830141] 	[C]: in upvalue '_in'
+[    830141] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[    830141] 	(...tail calls...)
+[    830141] 	server/server.lua:19: in function <server/server.lua:11>
+[    983219] Sending heartbeat to live-internal.fivem.net:30110
+[   1163250] Sending heartbeat to live-internal.fivem.net:30110
+[   1325906] Stopping resource race2
+[   1325938] Started map race2
+[   1325953] Started resource race2
+[   1327422] Stopping resource race2
+[   1327438] Started map race2
+[   1327438] Started resource race2
+[   1333375] table: 00000266D20988D0	1000	1
+[   1333422] InvokeNative: execution failed: Argument at index 1 was null.
+[   1333453] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[   1333453] stack traceback:
+[   1333469] 	[C]: in upvalue '_in'
+[   1333469] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[   1333469] 	(...tail calls...)
+[   1333469] 	server/server.lua:19: in function <server/server.lua:11>
+[   1343281] Sending heartbeat to live-internal.fivem.net:30110
+[   1352453] Stopping resource race2
+[   1352485] Started map race2
+[   1352485] Started resource race2
+[   1354828] Stopping resource race2
+[   1354844] Started map race2
+[   1354844] Started resource race2
+[   1358578] Stopping resource race2
+[   1358594] Started map race2
+[   1358610] Started resource race2
+[   1361375] nil	1000	1
+[   1361438] InvokeNative: execution failed: Argument at index 1 was null.
+[   1361469] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[   1361469] stack traceback:
+[   1361469] 	[C]: in upvalue '_in'
+[   1361485] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[   1361485] 	(...tail calls...)
+[   1361485] 	server/server.lua:19: in function <server/server.lua:11>
+[   1523313] Sending heartbeat to live-internal.fivem.net:30110
+[   1703344] Sending heartbeat to live-internal.fivem.net:30110
+[   1883375] Sending heartbeat to live-internal.fivem.net:30110
+[   1995235] Sending heartbeat to live-internal.fivem.net:30110
+[   2175235] Sending heartbeat to live-internal.fivem.net:30110
+[   2355297] Sending heartbeat to live-internal.fivem.net:30110
+[   2535344] Sending heartbeat to live-internal.fivem.net:30110
+[   2715344] Sending heartbeat to live-internal.fivem.net:30110
+[   2895406] Sending heartbeat to live-internal.fivem.net:30110
+[   3075453] Sending heartbeat to live-internal.fivem.net:30110
+[   3255453] Sending heartbeat to live-internal.fivem.net:30110
+[   3435500] Sending heartbeat to live-internal.fivem.net:30110
+[   3615547] Sending heartbeat to live-internal.fivem.net:30110
+[   3795547] Sending heartbeat to live-internal.fivem.net:30110
+[   3975563] Sending heartbeat to live-internal.fivem.net:30110
+[   4155563] Sending heartbeat to live-internal.fivem.net:30110
+[   4335578] Sending heartbeat to live-internal.fivem.net:30110
+[   4515594] Sending heartbeat to live-internal.fivem.net:30110
+[   4695625] Sending heartbeat to live-internal.fivem.net:30110
+[   4875672] Sending heartbeat to live-internal.fivem.net:30110
+[   5055719] Sending heartbeat to live-internal.fivem.net:30110
+[   5235766] Sending heartbeat to live-internal.fivem.net:30110
+[   5415766] Sending heartbeat to live-internal.fivem.net:30110
+[   5595766] Sending heartbeat to live-internal.fivem.net:30110
+[   5775781] Sending heartbeat to live-internal.fivem.net:30110
+[   5955797] Sending heartbeat to live-internal.fivem.net:30110
+[   6135797] Sending heartbeat to live-internal.fivem.net:30110
+[         0] Initializing Mono
+[        16] Initializing Mono completed
+[        32] Hello!
+[       110] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[       125] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[       125] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[       125] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[       141] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[       141] Found new resource ghmattimysql-master in C:/Main\cfx-server-data-master/resources//ghmattimysql-master
+[       141] Resource loading for ghmattimysql-master failed:
+[       141] Could not open resource metadata file C:/Main\cfx-server-data-master/resources//ghmattimysql-master/__resource.lua.
+[       157] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[       157] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[       157] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[       172] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[       172] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[       172] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[       172] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[       188] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[       188] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[       188] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[       203] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[       203] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[       203] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[       219] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[       219] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[       219] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[       235] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[       235] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[       235] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[       250] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[       282] Started resource sessionmanager
+[       297] Started resource mapmanager
+[       313] Started resource chat
+[       313] Started resource spawnmanager
+[       313] Started gametype Freeroam
+[       328] Started resource fivem
+[       328] Started resource hardcap
+[       344] Started resource rconlog
+[       344] Started resource scoreboard
+[       360] Started resource playernames
+[       360] Started map race2
+[       375] Started resource race2
+[       375] Authenticating server license key...
+[      1422] Server license key authentication succeeded. Welcome!
+[      1469] Sending heartbeat to live-internal.fivem.net:30110
+[     39282] Connecting: eddie5210200
+[     40547] Sending heartbeat to live-internal.fivem.net:30110
+[     84953] nil	1000	1
+[     85000] InvokeNative: execution failed: Argument at index 1 was null.
+[     85032] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[     85032] stack traceback:
+[     85032] 	[C]: in upvalue '_in'
+[     85032] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[     85032] 	(...tail calls...)
+[     85032] 	server/server.lua:20: in function <server/server.lua:11>
+[    136625] Stopping resource race2
+[    136657] Started map race2
+[    136657] Started resource race2
+[    143672] Stopping resource race2
+[    143703] Started map race2
+[    143719] Started resource race2
+[    146547] nil	1000	1
+[    146610] InvokeNative: execution failed: Argument at index 1 was null.
+[    146641] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[    146641] stack traceback:
+[    146641] 	[C]: in upvalue '_in'
+[    146641] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[    146641] 	(...tail calls...)
+[    146641] 	server/server.lua:20: in function <server/server.lua:11>
+[    170453] Stopping resource race2
+[    170500] Started map race2
+[    170500] Started resource race2
+[    211766] Stopping resource race2
+[    211813] Started map race2
+[    211813] Started resource race2
+[    220563] Sending heartbeat to live-internal.fivem.net:30110
+[    250516] Stopping resource race2
+[    250563] Started map race2
+[    250563] Started resource race2
+[    281657] nil	1000	1
+[    281750] InvokeNative: execution failed: Argument at index 1 was null.
+[    281813] Error resuming coroutine: Execution of native 000000002f7a49e6 in script host failed.
+[    281813] stack traceback:
+[    281813] 	[C]: in upvalue '_in'
+[    281813] 	citizen:/scripting/lua/natives_server.lua:256: in function 'TriggerClientEventInternal'
+[    281828] 	(...tail calls...)
+[    281828] 	server/server.lua:20: in function <server/server.lua:11>
+[    400594] Sending heartbeat to live-internal.fivem.net:30110
+[    580625] Sending heartbeat to live-internal.fivem.net:30110
