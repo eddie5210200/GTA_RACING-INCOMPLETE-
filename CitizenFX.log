@@ -3084,3 +3084,63 @@
 [    281828] 	server/server.lua:20: in function <server/server.lua:11>
 [    400594] Sending heartbeat to live-internal.fivem.net:30110
 [    580625] Sending heartbeat to live-internal.fivem.net:30110
+[   3787235] Initializing Mono
+[   3787266] Initializing Mono completed
+[   3787282] Hello!
+[   3787438] Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+[   3787563] Found new resource fivem in C:/Main\cfx-server-data-master/resources//fivem
+[   3787594] Found new resource fivem-awesome1501 in C:/Main\cfx-server-data-master/resources//fivem-awesome1501
+[   3787610] Found new resource fivem-map-hipster in C:/Main\cfx-server-data-master/resources//fivem-map-hipster
+[   3787641] Found new resource fivem-map-skater in C:/Main\cfx-server-data-master/resources//fivem-map-skater
+[   3787688] Found new resource ghmattimysql-master in C:/Main\cfx-server-data-master/resources//ghmattimysql-master
+[   3787719] Resource loading for ghmattimysql-master failed:
+[   3787719] Could not open resource metadata file C:/Main\cfx-server-data-master/resources//ghmattimysql-master/__resource.lua.
+[   3787735] Found new resource runcode in C:/Main\cfx-server-data-master/resources//runcode
+[   3787750] Found new resource race in C:/Main\cfx-server-data-master/resources//[gamemodes]/race
+[   3787750] Found new resource race-test in C:/Main\cfx-server-data-master/resources//[gamemodes]/race-test
+[   3787766] Found new resource channelfeed in C:/Main\cfx-server-data-master/resources//[gameplay]/channelfeed
+[   3787782] Found new resource irc in C:/Main\cfx-server-data-master/resources//[gameplay]/irc
+[   3787797] Found new resource obituary in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary
+[   3787813] Found new resource obituary-deaths in C:/Main\cfx-server-data-master/resources//[gameplay]/obituary-deaths
+[   3787813] Found new resource playernames in C:/Main\cfx-server-data-master/resources//[gameplay]/playernames
+[   3787828] Found new resource race2 in C:/Main\cfx-server-data-master/resources//[local]/race2
+[   3787844] Found new resource mapmanager in C:/Main\cfx-server-data-master/resources//[managers]/mapmanager
+[   3787860] Found new resource baseevents in C:/Main\cfx-server-data-master/resources//[system]/baseevents
+[   3787860] Found new resource chat in C:/Main\cfx-server-data-master/resources//[system]/chat
+[   3787875] Found new resource hardcap in C:/Main\cfx-server-data-master/resources//[system]/hardcap
+[   3787891] Found new resource rconlog in C:/Main\cfx-server-data-master/resources//[system]/rconlog
+[   3787907] Found new resource scoreboard in C:/Main\cfx-server-data-master/resources//[system]/scoreboard
+[   3787922] Found new resource sessionmanager in C:/Main\cfx-server-data-master/resources//[system]/sessionmanager
+[   3787938] Found new resource spawnmanager in C:/Main\cfx-server-data-master/resources//[system]/spawnmanager
+[   3787953] Found new resource betaguns in C:/Main\cfx-server-data-master/resources//[test]/betaguns
+[   3787969] Found new resource gameInit in C:/Main\cfx-server-data-master/resources//[test]/gameInit
+[   3787985] Found new resource keks in C:/Main\cfx-server-data-master/resources//[test]/keks
+[   3788063] Started resource sessionmanager
+[   3788094] Started resource mapmanager
+[   3788125] Started resource chat
+[   3788141] Started resource spawnmanager
+[   3788141] Started gametype Freeroam
+[   3788157] Started resource fivem
+[   3788172] Started resource hardcap
+[   3788203] Started resource rconlog
+[   3788235] Started resource scoreboard
+[   3788250] Started resource playernames
+[   3788297] Started map race2
+[   3788313] Started resource race2
+[   3788313] Authenticating server license key...
+[   3789438] Server license key authentication succeeded. Welcome!
+[   3789500] Sending heartbeat to live-internal.fivem.net:30110
+[   3809313] Connecting: eddie5210200
+[   3810188] Sending heartbeat to live-internal.fivem.net:30110
+[   3990235] Sending heartbeat to live-internal.fivem.net:30110
+[   4104657] Sending heartbeat to live-internal.fivem.net:30110
+[   4169063] Connecting: eddie5210200
+[   4169860] Sending heartbeat to live-internal.fivem.net:30110
+[   4243297] hitch warning: frame time of 202 milliseconds
+[   4349907] Sending heartbeat to live-internal.fivem.net:30110
+[   4365297] hitch warning: frame time of 271 milliseconds
+[   4365313] hitch warning: frame time of 1422 milliseconds
+[   4391672] hitch warning: frame time of 218 milliseconds
+[   4391703] hitch warning: frame time of 278 milliseconds
+[   4529969] Sending heartbeat to live-internal.fivem.net:30110
+[   4590922] Sending heartbeat to live-internal.fivem.net:30110
